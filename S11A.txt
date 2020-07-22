@@ -1,0 +1,3010 @@
+<Sentence id="1"> 
+
+1	((	NP	<fs name='NP' af='ਬਸੰਤ,n,f,sg,3,d,0_ਦੀ,' poslcat="NM" head="ਬਸੰਤ" vpos="vib2_3"> 
+
+1.1	ਰੂਪ	NNPC	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" name="ਬਸੰਤ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਗਾਥਾ,n,f,sg,3,d,,' poslcat="NM" head="ਗਾਥਾ"> 
+
+2.1	ਲੋਕ	NNC	<fs af='ਲੋਕ,n,m,pl,3,d,,' poslcat="NM"> 
+
+2.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+2.3	ਗਾਥਾ	NN	<fs af='ਗਾਥਾ,n,f,sg,3,d,,' poslcat="NM" name="ਗਾਥਾ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਸਦੀ,n,f,pl,3,o,,' poslcat="NM" head="ਸਦੀਆਂ"> 
+
+3.1	ਸਦੀਆਂ	NN	<fs af='ਸਦੀ,n,f,pl,3,o,,' poslcat="NM" name="ਸਦੀਆਂ"> 
+
+)) 
+
+4	((	JJP	<fs name='JJP' af='ਪੁਰਾਣਾ,adj,f,sg,,d,,' poslcat="NM" head="ਪੁਰਾਣੀ"> 
+
+4.1	ਪੁਰਾਣੀ	JJ	<fs af='ਪੁਰਾਣਾ,adj,f,sg,,d,,' poslcat="NM" name="ਪੁਰਾਣੀ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਹੈ,v,any,sg,3,,,' poslcat="NM" head="ਹੈ"> 
+
+5.1	ਹੈ	VAUX	<fs af='ਹੈ,v,any,sg,3,,,' poslcat="NM" name="ਹੈ"> 
+
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="2"> 
+
+1	((	NP	<fs name='NP' af='ਇਤਿਹਾਸ,n,m,sg,3,d,0_ਦੀ,' head="ਇਤਿਹਾਸ" poslcat="NM" vpos="vib1_2"> 
+
+1.1	ਇਤਿਹਾਸ	NN	<fs af='ਇਤਿਹਾਸ,n,m,sg,3,d,,' poslcat="NM" name="ਇਤਿਹਾਸ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਪੈੜ,n,f,pl,3,o,,' poslcat="NM" head="ਪੈੜਾਂ"> 
+
+2.1	ਪੈੜਾਂ	NN	<fs af='ਪੈੜ,n,f,pl,3,o,,' poslcat="NM" name="ਪੈੜਾਂ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਇਹ,pn,any,sg,,o,0_ਨੂੰ,' head="ਇਸ" poslcat="NM" vpos="vib1_2"> 
+
+3.1	ਇਸ	PRP	<fs af='ਇਹ,pn,any,sg,,o,,' poslcat="NM" name="ਇਸ"  ref='..%1%NP2' refType='C' dir='A' refMod='' Ptype='DEM'> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਜ਼ਿਲ੍ਹਾ,n,m,sg,3,d,,' poslcat="NM" head="ਜ਼ਿਲ੍ਹਾ"> 
+
+4.1	ਜ਼ਿਲ੍ਹਾ	NN	<fs af='ਜ਼ਿਲ੍ਹਾ,n,m,sg,3,d,,' poslcat="NM" name="ਜ਼ਿਲ੍ਹਾ"> 
+
+)) 
+
+5	((	NP	<fs name='NP5' af='ਫ਼ਤਿਹਗੜ੍ਹ,unk,,,,,0_ਦੇ,' head="ਫ਼ਤਿਹਗੜ੍ਹ" poslcat="NM" vpos="vib1_RP_3"> 
+
+5.1	ਫ਼ਤਿਹਗੜ੍ਹ	NNP	<fs af='ਫ਼ਤਿਹਗੜ੍ਹ,unk,,,,,,' poslcat="NM" name="ਫ਼ਤਿਹਗੜ੍ਹ"> 
+
+5.2	ਸਾਹਿਬ	RP	<fs af='ਸਾਹਿਬ,n,m,sg,3,d,,' poslcat="NM"> 
+
+)) 
+
+6	((	NP	<fs name='NP6' af='ਪਿੰਡ,n,m,sg,3,d,,' poslcat="NM" head="ਪਿੰਡ_2"> 
+
+6.1	ਪਿੰਡ	NN	<fs af='ਪਿੰਡ,n,m,sg,3,d,,' poslcat="NM" name="ਪਿੰਡ_2"> 
+
+)) 
+
+7	((	NP	<fs name='NP7' af='ਪਿੰਡ,n,m,sg,3,d,,' poslcat="NM" head="ਪਿੰਡ"> 
+
+7.1	ਉੱਚਾ	NNP	<fs af='ਉੱਚਾ,adj,m,sg,,d,,' poslcat="NM"> 
+
+7.2	ਪਿੰਡ	NN	<fs af='ਪਿੰਡ,n,m,sg,3,d,,' poslcat="NM" name="ਪਿੰਡ"> 
+
+)) 
+
+8	((	NP	<fs name='NP8' af='ਸੰਘੋਲ,unk,,,,,0_ਨਾਲ,' poslcat="NM" head="ਸੰਘੋਲ" vpos="vib1_2"> 
+
+8.1	ਸੰਘੋਲ	NNP	<fs af='ਸੰਘੋਲ,unk,,,,,,' poslcat="NM" name="ਸੰਘੋਲ"> 
+
+)) 
+
+9	((	VGF	<fs name='VGF' af='ਜਾ,v,f,pl,3,,0_ਜੋੜ+ਦਾ_ਹੈ+0,0' poslcat="NM" head="ਜਾ" vpos="tam1_2_3"> 
+
+9.1	ਜਾ	VM	<fs af='ਜਾ,v,any,sg,2,,0,0' poslcat="NM" name="ਜਾ"> 
+
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="3"> 
+
+1	((	NP	<fs name='NP' af='ਪਿੰਡ,n,m,sg,3,d,0_ਦੇ,' head="ਪਿੰਡ" poslcat="NM" vpos="vib2_3"> 
+
+1.1	ਇਸ	DEM	<fs af='ਇਹ,pn,any,sg,,o,,' poslcat="NM" ref='..%2%NP8' refType='C' dir='A' refMod=''> 
+
+1.2	ਪਿੰਡ	NN	<fs af='ਪਿੰਡ,n,m,sg,3,d,,' poslcat="NM" name="ਪਿੰਡ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਨਾਂ,n,m,sg,3,d,0_ਨਾਲ,' poslcat="NM" head="ਨਾਂ" vpos="vib1_2"> 
+
+2.1	ਨਾਂ	NN	<fs af='ਨਾਂ,n,m,sg,3,d,,' poslcat="NM" name="ਨਾਂ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਦੰਦ,n,m,sg,3,d,,' poslcat="NM" head="ਦੰਦ"> 
+
+3.1	ਕਈ	QC	<fs af='ਕਈ,adj,any,pl,,d,,' poslcat="NM"> 
+
+3.2	ਦੰਦ	NN	<fs af='ਦੰਦ,n,m,sg,3,d,,' poslcat="NM" name="ਦੰਦ"> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਕਥਾ,n,f,pl,3,o,,' poslcat="NM" head="ਕਥਾਵਾਂ"> 
+
+4.1	ਕਥਾਵਾਂ	NN	<fs af='ਕਥਾ,n,f,pl,3,o,,' poslcat="NM" name="ਕਥਾਵਾਂ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਜੁੜ,v,f,pl,3,,ਇਆ_ਹੋ+ਇਆ_ਹੈ+0,ਇਆ' poslcat="NM" head="ਜੁੜੀਆਂ" vpos="tam1_2_3"> 
+
+5.1	ਜੁੜੀਆਂ	VM	<fs af='ਜੁੜ,v,f,pl,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਜੁੜੀਆਂ"> 
+
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="4"> 
+
+1	((	VGF	<fs name='VGF' af='ਕਹਿ,v,m,pl,3,,ਦਾ_ਹੈ+0,ਦਾ' head="ਕਹਿੰਦੇ" poslcat="NM" vpos="tam1_2"> 
+
+1.1	ਕਹਿੰਦੇ	VM	<fs af='ਕਹਿ,v,m,pl,any,,ਦਾ,ਦਾ' poslcat="NM" name="ਕਹਿੰਦੇ"> 
+
+)) 
+
+2	((	NP	<fs name='NP' af='ਪਹਿਲਾਂ,adv,,,,d,0_ਪਹਿਲਾਂ_ਸੰਘੋਲ,' head="ਪਹਿਲਾਂ" poslcat="NM" vpos="vib2_3_4"> 
+
+2.1	ਹਜ਼ਾਰਾਂ	QC	<fs af='ਹਜ਼ਾਰ,num,any,pl,,o,,' poslcat="NM"> 
+
+2.2	ਵਰ੍ਹੇ	NN	<fs af='ਵਰ੍ਹਾ,n,m,sg,3,o,,' poslcat="NM"> 
+
+)) 
+
+3	((	NP	<fs name='NP2' af='ਘੁੱਗ,adv,,,,d,,' poslcat="NM" head="ਘੁੱਗ"> 
+
+3.1	ਇੱਕ	QC	<fs af='ਇੱਕ,num,any,pl,,d,,' poslcat="NM"> 
+
+3.2	ਘੁੱਗ	NN	<fs af='ਘੁੱਗ,adv,,,,d,,' poslcat="NM" name="ਘੁੱਗ"> 
+
+)) 
+
+4	((	VGNF	<fs af='ਵਸਦਾ,unk,,,,,,' poslcat="NM" head="ਵਸਦਾ"> 
+
+4.1	ਵਸਦਾ	VM	<fs af='ਵਸਦਾ,unk,,,,,,' poslcat="NM" name="ਵਸਦਾ"> 
+
+)) 
+
+5	((	NP	<fs name='NP3' af='ਸ਼ਹਿਰ,n,m,sg,3,d,,' poslcat="NM" head="ਸ਼ਹਿਰ"> 
+
+5.1	ਸ਼ਹਿਰ	NN	<fs af='ਸ਼ਹਿਰ,n,m,sg,3,d,,' poslcat="NM" name="ਸ਼ਹਿਰ"> 
+
+)) 
+
+6	((	VGF	<fs name='VGF2' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ_2"> 
+
+6.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ_2"> 
+
+)) 
+
+7	((	NP	<fs name='NP4' af='ਜਿਸ,adj,any,sg,,d,0_ਦਾ,' poslcat="NM" head="ਜਿਸ" vpos="vib1_2"> 
+
+7.1	ਜਿਸ	PRP	<fs af='ਜਿਸ,adj,any,sg,,d,,' poslcat="NM" name="ਜਿਸ" ref='NP3' refType='C' dir='A' refMod='' Ptype='REL'> 
+
+)) 
+
+8	((	NP	<fs name='NP5' af='ਨਾਂ,n,m,sg,3,d,,' poslcat="NM" head="ਨਾਂ"> 
+
+8.1	ਨਾਂ	NN	<fs af='ਨਾਂ,n,m,sg,3,d,,' poslcat="NM" name="ਨਾਂ"> 
+
+)) 
+
+9	((	VGF	<fs name='VGF3' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+9.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+)) 
+
+10	((	NP	<fs name='NP6' af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" head="ਰੂਪ"> 
+
+10.1	ਸੰਗਲਾਦੀਪ	NNC	<fs af='ਸੰਗਲਾਦੀਪ,unk,,,,,,' poslcat="NM"> 
+
+10.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+10.3	ਰੂਪ	NN	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" name="ਰੂਪ"> 
+
+)) 
+
+11	((	NP	<fs name='NP7' af='ਬਸੰਤ,n,f,sg,3,d,0_ਦੇ,' head="ਬਸੰਤ" poslcat="NM" vpos="vib1_2"> 
+
+11.1	ਬਸੰਤ	NN	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" name="ਬਸੰਤ"> 
+
+)) 
+
+12	((	NP	<fs name='NP8' af='ਪਿਤਾ,n,m,sg,3,d,,' poslcat="NM" head="ਪਿਤਾ"> 
+
+12.1	ਪਿਤਾ	NN	<fs af='ਪਿਤਾ,n,m,sg,3,d,,' poslcat="NM" name="ਪਿਤਾ"> 
+
+)) 
+
+13	((	NP	<fs name='NP9' af='ਸੈਨ,unk,,,,,0_ਦੀ,' head="ਸੈਨ" poslcat="NM" vpos="vib1_vib3_4"> 
+
+13.1	ਰਾਜਾ	NN	<fs af='ਰਾਜਾ,n,m,sg,3,d,,' poslcat="NM"> 
+
+13.2	ਖੜਗ	NNPC	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+13.3	ਸੈਨ	NNP	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+14	((	NP	<fs name='NP10' af='ਰਾਜਧਾਨੀ,n,f,sg,3,d,,' poslcat="NM" head="ਰਾਜਧਾਨੀ"> 
+
+14.1	ਰਾਜਧਾਨੀ	NN	<fs af='ਰਾਜਧਾਨੀ,n,f,sg,3,d,,' poslcat="NM" name="ਰਾਜਧਾਨੀ"> 
+
+14.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="5"> 
+
+1	((	NP	<fs name='NP' af='ਸੈਨ,unk,,,,,,' poslcat="NM" head="ਸੈਨ"> 
+
+1.1	ਰਾਜਾ	NN	<fs af='ਰਾਜਾ,n,m,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਖੜਗ	NNPC	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+1.3	ਸੈਨ	NNP	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਦਿਲ,n,m,sg,3,d,,' poslcat="NM" head="ਦਿਲ"> 
+
+2.1	ਇੱਕ	QC	<fs af='ਇੱਕ,num,any,pl,,d,,' poslcat="NM"> 
+
+2.2	ਨੇਕ	JJ	<fs af='ਨੇਕ,adj,,,,d,,' poslcat="NM"> 
+
+2.3	ਦਿਲ	NN	<fs af='ਦਿਲ,n,m,sg,3,d,,' poslcat="NM" name="ਦਿਲ"> 
+
+2.4	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+3	((	JJP	<fs name='JJP' af='ਧਰਮੀ,adj,any,sg,,d,,' poslcat="NM" head="ਧਰਮੀ"> 
+
+3.1	ਧਰਮੀ	JJ	<fs af='ਧਰਮੀ,adj,any,sg,,d,,' poslcat="NM" name="ਧਰਮੀ"> 
+
+)) 
+
+4	((	CCP	<fs name='CCP' af='ਅਤੇ,avy,,,,,,' poslcat="NM" head="ਅਤੇ"> 
+
+4.1	ਅਤੇ	CC	<fs af='ਅਤੇ,avy,,,,,,' poslcat="NM" name="ਅਤੇ"> 
+
+)) 
+
+5	((	JJP	<fs name='JJP2' af='ਅਦਲੀ,adj,,,,d,,' poslcat="NM" head="ਅਦਲੀ"> 
+
+5.1	ਅਦਲੀ	JJ	<fs af='ਅਦਲੀ,adj,,,,d,,' poslcat="NM" name="ਅਦਲੀ"> 
+
+)) 
+
+6	((	NP	<fs name='NP3' af='ਰਾਜਾ,n,m,sg,3,o,0_ਦੇ,' head="ਰਾਜੇ" poslcat="NM" vpos="vib1_2"> 
+
+6.1	ਰਾਜੇ	NN	<fs af='ਰਾਜਾ,n,m,sg,3,o,,' poslcat="NM" name="ਰਾਜੇ"> 
+
+)) 
+
+7	((	NP	<fs name='NP4' af='ਨਾਂ,n,m,sg,3,d,0_ਨਾਲ,' head="ਨਾਂ" poslcat="NM" vpos="vib1_2"> 
+
+7.1	ਨਾਂ	NN	<fs af='ਨਾਂ,n,m,sg,3,d,,' poslcat="NM" name="ਨਾਂ"> 
+
+)) 
+
+8	((	JJP	<fs name='JJP3' af='ਪ੍ਰਸਿੱਧ,adj,,,,d,,' poslcat="NM" head="ਪ੍ਰਸਿੱਧ"> 
+
+8.1	ਪ੍ਰਸਿੱਧ	JJ	<fs af='ਪ੍ਰਸਿੱਧ,adj,,,,d,,' poslcat="NM" name="ਪ੍ਰਸਿੱਧ"> 
+
+)) 
+
+9	((	VGF	<fs name='VGF' af='ਸੀ,v,any,pl,3,,,' poslcat="NM" head="ਸਨ"> 
+
+9.1	ਸਨ	VAUX	<fs af='ਸੀ,v,any,pl,3,,,' poslcat="NM" name="ਸਨ"> 
+
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="6"> 
+
+1	((	NP	<fs name='NP' af='ਉਹ,pn,any,sg,,o,0_ਦੇ,' head="ਉਸ" poslcat="NM" vpos="vib1_2"> 
+
+1.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='..%5%NP3' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਰਾਜ,n,m,sg,3,d,0_ਵਿਚ,' head="ਰਾਜ" poslcat="NM" vpos="vib1_2"> 
+
+2.1	ਰਾਜ	NN	<fs af='ਰਾਜ,n,m,sg,3,d,,' poslcat="NM" name="ਰਾਜ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਪਰਜਾ,n,f,sg,3,d,,' poslcat="NM" head="ਪਰਜਾ"> 
+
+3.1	ਪਰਜਾ	NN	<fs af='ਪਰਜਾ,n,f,sg,3,d,,' poslcat="NM" name="ਪਰਜਾ"> 
+
+)) 
+
+4	((	JJP	<fs name='JJP' af='ਸੁਖੀ,adj,,,,d,,' poslcat="NM" head="ਸੁਖੀ"> 
+
+4.1	ਬਹੁਤ	INTF	<fs af='ਬਹੁਤ,adj,,,,d,,' poslcat="NM"> 
+
+4.2	ਸੁਖੀ	JJ	<fs af='ਸੁਖੀ,adj,,,,d,,' poslcat="NM" name="ਸੁਖੀ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+5.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="7"> 
+
+1	((	NP	<fs name='NP' af='ਉਹ,pn,any,sg,,o,0_ਨੂੰ,' head="ਉਸ" poslcat="NM" vpos="vib2_3"> 
+
+1.1	ਸਾਰੇ	QF	<fs af='ਸਾਰ,v,any,sg,3,,ਏ,ਏ' poslcat="NM"> 
+
+1.2	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='..%6%NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਆਦਰ,n,m,sg,3,d,,' poslcat="NM" head="ਆਦਰ"> 
+
+2.1	ਬੜਾ	QF	<fs af='ਬੜਾ,adj,m,sg,,d,,' poslcat="NM"> 
+
+2.2	ਆਦਰ	NNC	<fs af='ਆਦਰ,n,m,sg,3,d,,' poslcat="NM" name="ਆਦਰ"> 
+
+2.3	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਮਾਣ,n,m,pl,3,d,0_ਦੇ+ਦਾ_ਸੀ+0,' head="ਮਾਣ" poslcat="NM" vpos="tam1_2_3"> 
+
+3.1	ਮਾਣ	VM	<fs af='ਮਾਣ,n,m,sg,3,d,,' poslcat="NM" name="ਮਾਣ"> 
+
+3.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="8"> 
+
+1	((	NP	<fs name='NP' af='ਗੱਲ,n,f,sg,3,d,0_ਦੀ,' poslcat="NM" head="ਗੱਲ" vpos="vib1_vib2_3"> 
+
+1.1	ਕਿਸੇ	PRP	<fs af='ਕਿਸ,adj,any,sg,,o,,' poslcat="NM" ref='unk' refType='unk' dir='unk' refMod='' Ptype='IDF'> 
+
+1.2	ਗੱਲ	NN	<fs af='ਗੱਲ,n,f,sg,3,d,,' poslcat="NM" name="ਗੱਲ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਉਹ,pn,any,sg,,o,0_ਨੂੰ,' head="ਉਸ" poslcat="NM" vpos="vib1_2"> 
+
+2.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='..%7%NP' refType='C' dir='A' refMod='' Ptype='PER3' > 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਤੋਟ,unk,,,,,,' poslcat="NM" head="ਤੋਟ"> 
+
+3.1	ਤੋਟ	NN	<fs af='ਤੋਟ,unk,,,,,,' poslcat="NM" name="ਤੋਟ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+4.1	ਨਹੀਂ	NEG	<fs af='ਨਹੀਂ,avy,,,,,,' poslcat="NM"> 
+
+4.2	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+4.3	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM" name="."> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="9"> 
+
+1	((	NP	<fs name='NP' af='ਔਲਾਦ,unk,,,,,0_ਵੱਲੋਂ,' poslcat="NM" head="ਔਲਾਦ" vpos="vib1_2_RP"> 
+
+1.1	ਔਲਾਦ	NNP	<fs af='ਔਲਾਦ,unk,,,,,,' poslcat="NM" name="ਔਲਾਦ"> 
+
+1.2	ਵੀ	RP	<fs af='ਵੀ,avy,,,,,,' poslcat="NM"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" head="ਉਹ"> 
+
+2.1	ਉਹ	PRP	<fs af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" name="ਉਹ" ref='..%8%NP2' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+3	((	JJP	<fs name='JJP' af='ਸੰਤੁਸ਼ਟ,adj,,,,d,,' poslcat="NM" head="ਸੰਤੁਸ਼ਟ"> 
+
+3.1	ਸੰਤੁਸ਼ਟ	JJ	<fs af='ਸੰਤੁਸ਼ਟ,adj,,,,d,,' poslcat="NM" name="ਸੰਤੁਸ਼ਟ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+4.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="10"> 
+
+1	((	NP	<fs name='NP' af='ਉਹ,pn,any,sg,,o,0_ਦੇ,' poslcat="NM" head="ਉਸ" vpos="vib1_2"> 
+
+1.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='..%9%NP2' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਪੁੱਤਰ,n,m,sg,3,d,,' poslcat="NM" head="ਪੁੱਤਰ"> 
+
+2.1	ਦੋ	QC	<fs af='ਦੋ,num,any,pl,,d,,' poslcat="NM"> 
+
+2.2	ਪਿਆਰੇ	JJ	<fs af='ਪਿਆਰਾ,adj,m,sg,,o,,' poslcat="NM"> 
+
+2.3	ਪੁੱਤਰ	NN	<fs af='ਪੁੱਤਰ,n,m,sg,3,d,,' poslcat="NM" name="ਪੁੱਤਰ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਸੀ,v,any,pl,3,,,' poslcat="NM" head="ਸਨ"> 
+
+3.1	ਸਨ	VAUX	<fs af='ਸੀ,v,any,pl,3,,,' poslcat="NM" name="ਸਨ"> 
+
+3.2	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+4	((	NP	<fs name='NP3' af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" head="ਰੂਪ"> 
+
+4.1	ਰੂਪ	NN	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" name="ਰੂਪ"> 
+
+)) 
+
+5	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+5.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+6	((	NP	<fs name='NP4' af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" head="ਬਸੰਤ"> 
+
+6.1	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" name="ਬਸੰਤ"> 
+
+)) 
+
+7	((	NP	<fs name='NP5' af='ਜੋ,pn,any,pl,,o,0_ਨੂੰ,' head="ਜਿਨ੍ਹਾਂ" poslcat="NM" vpos="vib1_2"> 
+
+7.1	ਜਿਨ੍ਹਾਂ	PRP	<fs af='ਜੋ,pn,any,pl,,o,,' poslcat="NM" name="ਜਿਨ੍ਹਾਂ" ref='NP3,NP4' refType='C' dir='A' refMod='' Ptype='REL'> 
+
+)) 
+
+8	((	VGNF	<fs af='ਵੇਖ,v,any,any,any,,ਇਆਂ,ਇਆਂ' poslcat="NM" head="ਵੇਖਿਆਂ"> 
+
+8.1	ਵੇਖਿਆਂ	VM	<fs af='ਵੇਖ,v,any,any,any,,ਇਆਂ,ਇਆਂ' poslcat="NM" name="ਵੇਖਿਆਂ"> 
+
+)) 
+
+9	((	NP	<fs name='NP6' af='ਭੁੱਖ,n,f,sg,3,d,,' poslcat="NM" head="ਭੁੱਖ"> 
+
+9.1	ਭੁੱਖ	NN	<fs af='ਭੁੱਖ,n,f,sg,3,d,,' poslcat="NM" name="ਭੁੱਖ"> 
+
+)) 
+
+10	((	VGF	<fs name='VGF2' af='ਲਹਿੰਦਾ,adj,f,sg,1,d,0_ਸੀ+0,' poslcat="NM" head="ਲਹਿੰਦੀ" vpos="tam1_2"> 
+
+10.1	ਲਹਿੰਦੀ	VM	<fs af='ਲਹਿੰਦਾ,adj,f,sg,,d,,' poslcat="NM" name="ਲਹਿੰਦੀ"> 
+
+10.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="11"> 
+
+1	((	NP	<fs name='NP' af='ਅੱਖ,n,f,pl,3,o,,' poslcat="NM" head="ਅੱਖਾਂ"> 
+
+1.1	ਅੱਖਾਂ	NN	<fs af='ਅੱਖ,n,f,pl,3,o,,' poslcat="NM" name="ਅੱਖਾਂ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਰੱਜ,n,m,sg,3,d,,' poslcat="NM" head="ਰੱਜ"> 
+
+2.1	ਰੱਜ	NNC	<fs af='ਰੱਜ,n,m,sg,3,d,,' poslcat="NM" name="ਰੱਜ"> 
+
+2.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਰੱਜ,n,f,pl,3,d,0_ਜਾ+ਦਾ_ਸੀ+0,' poslcat="NM" head="ਰੱਜ" vpos="tam1_2_3"> 
+
+3.1	ਰੱਜ	VM	<fs af='ਰੱਜ,n,m,sg,3,d,,' poslcat="NM" name="ਰੱਜ"> 
+
+3.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="12"> 
+
+1	((	NP	<fs name='NP' af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" head="ਰੂਪ_2"> 
+
+1.1	ਰੂਪ	NN	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" name="ਰੂਪ_2"> 
+
+)) 
+
+2	((	JJP	<fs name='JJP' af='ਵੱਡਾ,adj,m,sg,,d,,' poslcat="NM" head="ਵੱਡਾ"> 
+
+2.1	ਵੱਡਾ	JJ	<fs af='ਵੱਡਾ,adj,m,sg,,d,,' poslcat="NM" name="ਵੱਡਾ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ_2"> 
+
+3.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ_2"> 
+
+)) 
+
+4	((	NP	<fs name='NP2' af='ਵਰ੍ਹਾ,n,m,pl,3,o,0_ਦਾ,' poslcat="NM" head="ਵਰ੍ਹਿਆਂ" vpos="vib2_3"> 
+
+4.1	ਪੰਦਰਾਂ	QC	<fs af='ਪੰਦਰਾਂ,num,any,pl,,d,,' poslcat="NM"> 
+
+4.2	ਵਰ੍ਹਿਆਂ	NN	<fs af='ਵਰ੍ਹਾ,n,m,pl,3,o,,' poslcat="NM" name="ਵਰ੍ਹਿਆਂ"> 
+
+)) 
+
+5	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+5.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+6	((	NP	<fs name='NP3' af='ਰੂਪ,n,m,sg,3,d,0_ਤੋਂ,' poslcat="NM" head="ਰੂਪ" vpos="vib1_vib2_3"> 
+
+6.1	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM"> 
+
+6.2	ਰੂਪ	NN	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" name="ਰੂਪ"> 
+
+)) 
+
+7	((	NP	<fs name='NP4' af='ਸਾਲ,n,m,sg,3,d,,' poslcat="NM" head="ਸਾਲ"> 
+
+7.1	ਦੋ	QC	<fs af='ਦੋ,num,any,pl,,d,,' poslcat="NM"> 
+
+7.2	ਸਾਲ	NN	<fs af='ਸਾਲ,n,m,sg,3,d,,' poslcat="NM" name="ਸਾਲ"> 
+
+)) 
+
+8	((	JJP	<fs name='JJP2' af='ਛੋਟਾ,adj,m,sg,,d,,' poslcat="NM" head="ਛੋਟਾ"> 
+
+8.1	ਛੋਟਾ	JJ	<fs af='ਛੋਟਾ,adj,m,sg,,d,,' poslcat="NM" name="ਛੋਟਾ"> 
+
+)) 
+
+9	((	VGF	<fs name='VGF2' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+9.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+9.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="13"> 
+
+1	((	NP	<fs name='NP' af='ਸੈਨ,unk,,,,,,' poslcat="NM" head="ਸੈਨ"> 
+
+1.1	ਖੜਗ	NNPC	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਸੈਨ	NNP	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਰਾਣੀ,n,f,sg,3,d,,' poslcat="NM" head="ਰਾਣੀ"> 
+
+2.1	ਆਪਣੀ	PRP	<fs af='ਆਪਣਾ,adj,f,sg,,d,,' poslcat="NM" ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+2.2	ਪਿਆਰੀ	JJ	<fs af='ਪਿਆਰਾ,adj,f,sg,,d,,' poslcat="NM"> 
+
+2.3	ਰਾਣੀ	NN	<fs af='ਰਾਣੀ,n,f,sg,3,d,,' poslcat="NM" name="ਰਾਣੀ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਰੂਪਵਤੀ,unk,,,,,0_ਵੱਲੋਂ,' poslcat="NM" head="ਰੂਪਵਤੀ" vpos="vib1_2"> 
+
+3.1	ਰੂਪਵਤੀ	NN	<fs af='ਰੂਪਵਤੀ,unk,,,,,,' poslcat="NM" name="ਰੂਪਵਤੀ"> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਫ਼ਿਕਰਮੰਦ,unk,,,,,,' poslcat="NM" head="ਫ਼ਿਕਰਮੰਦ"> 
+
+4.1	ਫ਼ਿਕਰਮੰਦ	NN	<fs af='ਫ਼ਿਕਰਮੰਦ,unk,,,,,,' poslcat="NM" name="ਫ਼ਿਕਰਮੰਦ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+5.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="14"> 
+
+1	((	NP	<fs name='NP' af='ਰੂਪਵਤੀ,unk,,,,,,' poslcat="NM" head="ਰੂਪਵਤੀ"> 
+
+1.1	ਰੂਪਵਤੀ	NN	<fs af='ਰੂਪਵਤੀ,unk,,,,,,' poslcat="NM" name="ਰੂਪਵਤੀ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਸਮਾਂ,n,m,sg,3,o,0_ਤੋਂ,' poslcat="NM" head="ਸਮੇਂ" vpos="vib2_3"> 
+
+2.1	ਕੁਝ	QF	<fs af='ਕੁਝ,adj,,,,d,,' poslcat="NM"> 
+
+2.2	ਸਮੇਂ	NN	<fs af='ਸਮਾਂ,n,m,sg,3,o,,' poslcat="NM" name="ਸਮੇਂ"> 
+
+)) 
+
+3	((	JJP	<fs name='JJP' af='ਬੀਮਾਰ,unk,,,,,,' poslcat="NM" head="ਬੀਮਾਰ"> 
+
+3.1	ਬੀਮਾਰ	JJ	<fs af='ਬੀਮਾਰ,unk,,,,,,' poslcat="NM" name="ਬੀਮਾਰ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+4.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="15"> 
+
+1	((	NP	<fs name='NP' af='ਰਾਜ,n,m,sg,3,d,0_ਦੇ,' poslcat="NM" head="ਰਾਜ" vpos="vib1_2"> 
+
+1.1	ਰਾਜ	NN	<fs af='ਰਾਜ,n,m,sg,3,d,,' poslcat="NM" name="ਰਾਜ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਹਕੀਮ,n,m,pl,3,o,0_ਨੇ,' head="ਹਕੀਮਾਂ" poslcat="NM" vpos="vib1_2"> 
+
+2.1	ਹਕੀਮਾਂ	NN	<fs af='ਹਕੀਮ,n,m,pl,3,o,,' poslcat="NM" name="ਹਕੀਮਾਂ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਉਹ,pn,any,sg,,o,0_ਦਾ,' head="ਉਸ" poslcat="NM" vpos="vib1_2"> 
+
+3.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='..%14%NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਇਲਾਜ,n,m,sg,3,d,,' poslcat="NM" head="ਇਲਾਜ"> 
+
+4.1	ਬਹੁਤ	QF	<fs af='ਬਹੁਤ,adj,,,,d,,' poslcat="NM"> 
+
+4.2	ਇਲਾਜ	NN	<fs af='ਇਲਾਜ,n,m,sg,3,d,,' poslcat="NM" name="ਇਲਾਜ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਕਰ,v,m,sg,any,,ਇਆ,ਇਆ' poslcat="NM" head="ਕੀਤਾ"> 
+
+5.1	ਕੀਤਾ	VM	<fs af='ਕਰ,v,m,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਕੀਤਾ"> 
+
+)) 
+
+6	((	CCP	<fs name='CCP' af='ਪਰ,adv,,,,d,,' poslcat="NM" head="ਪਰ"> 
+
+6.1	ਪਰ	CC	<fs af='ਪਰ,adv,,,,d,,' poslcat="NM" name="ਪਰ"> 
+
+)) 
+
+7	((	NP	<fs name='NP5' af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" head="ਉਹ"> 
+
+7.1	ਉਹ	PRP	<fs af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" name="ਉਹ" ref='NP3' refType='C' dir='A' refMod=''  Ptype='PER3'> 
+
+)) 
+
+8	((	JJP	<fs name='JJP' af='ਅਜਿਹਾ,adj,f,sg,,d,,' poslcat="NM" head="ਅਜਿਹੀ"> 
+
+8.1	ਅਜਿਹੀ	JJ	<fs af='ਅਜਿਹਾ,adj,f,sg,,d,,' poslcat="NM" name="ਅਜਿਹੀ"> 
+
+)) 
+
+9	((	VGF	<fs name='VGF2' af='ਮੰਜਾ,n,m,sg,3,o,0_’ਤੇਪਈ+0,' head="ਮੰਜੇ" poslcat="NM" vpos="tam1_2"> 
+
+9.1	ਮੰਜੇ	VM	<fs af='ਮੰਜਾ,n,m,sg,3,o,,' poslcat="NM" name="ਮੰਜੇ"> 
+
+)) 
+
+10	((	CCP	<fs name='CCP2' af='ਕਿ,avy,,,,,,' poslcat="NM" head="ਕਿ"> 
+
+10.1	ਕਿ	CC	<fs af='ਕਿ,avy,,,,,,' poslcat="NM" name="ਕਿ"> 
+
+)) 
+
+11	((	VGF	<fs name='VGF3' af='ਉੱਠ,v,any,sg,any,,0_ਸਕ+ਇਆ,0' head="ਉੱਠ" poslcat="NM" vpos="tam1_3"> 
+
+11.1	ਉੱਠ	VM	<fs af='ਉੱਠ,v,any,sg,2,,0,0' poslcat="NM" name="ਉੱਠ"> 
+
+11.2	ਨਾ	NEG	<fs af='ਨਾ,avy,,,,,,' poslcat="NM"> 
+
+)) 
+
+12	((	CCP	<fs name='CCP3' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+12.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+13	((	NP	<fs name='NP6' af='ਦਿਨ,n,m,sg,3,d,,' poslcat="NM" head="ਦਿਨ"> 
+
+13.1	ਕੁਝ	QF	<fs af='ਕੁਝ,adj,,,,d,,' poslcat="NM"> 
+
+13.2	ਦਿਨ	NN	<fs af='ਦਿਨ,n,m,sg,3,d,,' poslcat="NM" name="ਦਿਨ"> 
+
+)) 
+
+14	((	VGNF	<fs af='ਪਾ,n,m,sg,3,d,0_ਕਾ+0,' head="ਪਾ" poslcat="NM" vpos="tam1_2"> 
+
+14.1	ਪਾ	VM	<fs af='ਪਾ,n,m,sg,3,d,,' poslcat="NM" name="ਪਾ"> 
+
+)) 
+
+15	((	NP	<fs name='NP7' af='ਰਾਣੀ,n,f,sg,3,d,,' poslcat="NM" head="ਰਾਣੀ"> 
+
+15.1	ਰਾਣੀ	NN	<fs af='ਰਾਣੀ,n,f,sg,3,d,,' poslcat="NM" name="ਰਾਣੀ"> 
+
+)) 
+
+16	((	NP	<fs name='NP8' af='ਸਿਧਾਰ,v,any,sg,2,,0,0' poslcat="NM" head="ਸਿਧਾਰ"> 
+
+16.1	ਸਵਰਗ	NNPC	<fs af='ਸਵਰਗ,n,m,sg,3,d,,' poslcat="NM"> 
+
+16.2	ਸਿਧਾਰ	NNP	<fs af='ਸਿਧਾਰ,v,any,sg,2,,0,0' poslcat="NM" name="ਸਿਧਾਰ"> 
+
+)) 
+
+17	((	VGF	<fs name='VGF4' af='ਜਾ,v,f,sg,any,,ਇਆ,ਇਆ' poslcat="NM" head="ਗਈ"> 
+
+17.1	ਗਈ	VM	<fs af='ਜਾ,v,f,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਗਈ"> 
+
+17.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="16"> 
+
+1	((	NP	<fs name='NP' af='ਰਾਣੀ,n,f,sg,3,d,0_ਦੀ,' head="ਰਾਣੀ" poslcat="NM" vpos="vib1_2"> 
+
+1.1	ਰਾਣੀ	NN	<fs af='ਰਾਣੀ,n,f,sg,3,d,,' poslcat="NM" name="ਰਾਣੀ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਮੌਤ,n,f,sg,3,d,0_ਕਾਰਨ,' poslcat="NM" head="ਮੌਤ" vpos="vib1_2"> 
+
+2.1	ਮੌਤ	NN	<fs af='ਮੌਤ,n,f,sg,3,d,,' poslcat="NM" name="ਮੌਤ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਰਾਜ,n,m,sg,3,d,0_ਵਿੱਚ,' poslcat="NM" head="ਰਾਜ" vpos="vib2_3"> 
+
+3.1	ਸਾਰੇ	QF	<fs af='ਸਾਰ,v,any,sg,3,,ਏ,ਏ' poslcat="NM"> 
+
+3.2	ਰਾਜ	NN	<fs af='ਰਾਜ,n,m,sg,3,d,,' poslcat="NM" name="ਰਾਜ"> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਸੋਗ,n,m,sg,3,d,0_ਦੀ,' head="ਸੋਗ" poslcat="NM" vpos="vib1_2"> 
+
+4.1	ਸੋਗ	NN	<fs af='ਸੋਗ,n,m,sg,3,d,,' poslcat="NM" name="ਸੋਗ"> 
+
+)) 
+
+5	((	NP	<fs name='NP5' af='ਲਹਿਰ,n,f,sg,3,d,,' poslcat="NM" head="ਲਹਿਰ"> 
+
+5.1	ਲਹਿਰ	NN	<fs af='ਲਹਿਰ,n,f,sg,3,d,,' poslcat="NM" name="ਲਹਿਰ"> 
+
+)) 
+
+6	((	VGF	<fs name='VGF' af='ਦੌੜ,n,f,sg,any,d,0_ਜਾ+ਇਆ,' head="ਦੌੜ" poslcat="NM" vpos="tam1_2"> 
+
+6.1	ਦੌੜ	VM	<fs af='ਦੌੜ,n,f,sg,3,d,,' poslcat="NM" name="ਦੌੜ"> 
+
+6.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="17"> 
+
+1	((	NP	<fs name='NP' af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" head="ਬਸੰਤ"> 
+
+1.1	ਰੂਪ	NNPC	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" name="ਬਸੰਤ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਮਾਂ,n,f,sg,3,d,0_ਦੇ,' head="ਮਾਂ" poslcat="NM" vpos="vib1_vib2_3"> 
+
+2.1	ਆਪਣੀ	PRP	<fs af='ਆਪਣਾ,adj,f,sg,,d,,' poslcat="NM" ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+2.2	ਮਾਂ	NN	<fs af='ਮਾਂ,n,f,sg,3,d,,' poslcat="NM" name="ਮਾਂ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਵਿਯੋਗ,n,m,sg,3,d,0_ਵਿੱਚ,' poslcat="NM" head="ਵਿਯੋਗ" vpos="vib1_2"> 
+
+3.1	ਵਿਯੋਗ	NN	<fs af='ਵਿਯੋਗ,n,m,sg,3,d,,' poslcat="NM" name="ਵਿਯੋਗ"> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਰੁੰਨੇ…,unk,,,,,,' poslcat="NM" head="ਰੁੰਨੇ…"> 
+
+4.1	ਬਹੁਤ	QF	<fs af='ਬਹੁਤ,adj,,,,d,,' poslcat="NM"> 
+
+4.2	ਰੁੰਨੇ…	NN	<fs af='ਰੁੰਨੇ…,unk,,,,,,' poslcat="NM" name="ਰੁੰਨੇ…"> 
+
+)) 
+
+5	((	NP	<fs name='NP5' af='ਉਹ,pn,any,pl,,o,0_ਦਾ,' poslcat="NM" head="ਉਨ੍ਹਾਂ" vpos="vib1_2"> 
+
+5.1	ਉਨ੍ਹਾਂ	PRP	<fs af='ਉਹ,pn,any,pl,,o,,' poslcat="NM" name="ਉਨ੍ਹਾਂ" ref='NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+6	((	NP	<fs name='NP6' af='ਰੋਣ,n,m,sg,3,d,,' poslcat="NM" head="ਰੋਣ"> 
+
+6.1	ਰੋਣ	NN	<fs af='ਰੋਣ,n,m,sg,3,d,,' poslcat="NM" name="ਰੋਣ"> 
+
+)) 
+
+7	((	VGF	<fs name='VGF' af='ਝੱਲ,v,any,sg,any,,ਇਆ_ਸੀ+0_ਜਾ+ਦਾ,ਇਆ' poslcat="NM" head="ਝੱਲਿਆ" vpos="tam1_3_4"> 
+
+7.1	ਝੱਲਿਆ	VM	<fs af='ਝੱਲ,v,m,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਝੱਲਿਆ"> 
+
+7.2	ਨਹੀਂ	NEG	<fs af='ਨਹੀਂ,avy,,,,,,' poslcat="NM"> 
+
+7.3	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="18"> 
+
+1	((	NP	<fs name='NP' af='ਸੈਨ,unk,,,,,,' poslcat="NM" head="ਸੈਨ"> 
+
+1.1	ਖੜਗ	NNPC	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਸੈਨ	NNP	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਆਪ,pn,any,sg,,d,,' poslcat="NM" head="ਆਪ"> 
+
+2.1	ਆਪ	PRP	<fs af='ਆਪ,pn,any,sg,,d,,' poslcat="NM" name="ਆਪ" ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਬੇਹਾਲ,adj,,,,d,,' poslcat="NM" head="ਬੇਹਾਲ"> 
+
+3.1	ਹਾਲੋਂ	PRP	<fs af='ਹਾਲ,n,m,sg,3,o,ੋਂ,ੋਂ' poslcat="NM"  ref='unk' refType='unk' dir='unk' refMod='unk' Ptype='UNK'> 
+
+3.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+3.3	ਬੇਹਾਲ	NN	<fs af='ਬੇਹਾਲ,adj,,,,d,,' poslcat="NM" name="ਬੇਹਾਲ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਹੋ,v,any,sg,1,,ਇਆ_ਪਿਆ+0_ਸੀ+0,ਇਆ' poslcat="NM" head="ਹੋਇਆ" vpos="tam1_2_3"> 
+
+4.1	ਹੋਇਆ	VM	<fs af='ਹੋ,v,m,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਹੋਇਆ"> 
+
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="19"> 
+
+1	((	NP	<fs name='NP' af='ਉਹ,pn,any,sg,,o,0_ਨੂੰ,' head="ਉਸ" poslcat="NM" vpos="vib1_2"> 
+
+1.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ"  ref='..%18%NP2' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਸੁਝ,unk,,,,,,' poslcat="NM" head="ਸੁਝ"> 
+
+2.1	ਸੁਝ	NN	<fs af='ਸੁਝ,unk,,,,,,' poslcat="NM" name="ਸੁਝ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+3.1	ਨਹੀਂ	NEG	<fs af='ਨਹੀਂ,avy,,,,,,' poslcat="NM"> 
+
+3.2	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+3.3	ਰਿਹਾ	VM	<fs af='ਰਿਹਾ,adj,,,,d,,' poslcat="NM" name="ਰਿਹਾ"> 
+
+)) 
+
+4	((	CCP	<fs name='CCP' af='ਕਿ,avy,,,,,,' poslcat="NM" head="ਕਿ"> 
+
+4.1	ਕਿ	CC	<fs af='ਕਿ,avy,,,,,,' poslcat="NM" name="ਕਿ"> 
+
+)) 
+
+5	((	RBP	<fs name='RBP' af='ਕਿਵੇਂ,adv,,,,d,,' poslcat="NM" head="ਕਿਵੇਂ"> 
+
+5.1	ਕਿਵੇਂ	WQ	<fs af='ਕਿਵੇਂ,adv,,,,d,,' poslcat="NM" name="ਕਿਵੇਂ"> 
+
+)) 
+
+6	((	NP	<fs name='NP3' af='ਆਪ,pn,any,sg,,d,,' poslcat="NM" head="ਆਪ"> 
+
+6.1	ਆਪਣੇ	PRP	<fs af='ਆਪਣਾ,adj,m,sg,,o,,' poslcat="NM" ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+6.2	ਆਪ	PRP	<fs af='ਆਪ,pn,any,sg,,d,,' poslcat="NM" name="ਆਪ" ref='NP3' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+)) 
+
+7	((	NP	<fs name='NP4' af='’ਤੇਕਾਬੂ,unk,,,,,,' poslcat="NM" head="’ਤੇਕਾਬੂ"> 
+
+7.1	’ਤੇਕਾਬੂ	NN	<fs af='’ਤੇਕਾਬੂ,unk,,,,,,' poslcat="NM" name="’ਤੇਕਾਬੂ"> 
+
+)) 
+
+8	((	VGF	<fs name='VGF2' af='ਪਾਵਾ,n,m,sg,3,o,,' poslcat="NM" head="ਪਾਵੇ"> 
+
+8.1	ਪਾਵੇ	VM	<fs af='ਪਾਵਾ,n,m,sg,3,o,,' poslcat="NM" name="ਪਾਵੇ"> 
+
+8.2	?	SYM	<fs af='?,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+9	((	NP	<fs name='NP5' af='ਰਾਜ,n,m,sg,3,d,0_ਦੇ,' head="ਰਾਜ" poslcat="NM" vpos="vib1_2"> 
+
+9.1	ਰਾਜ	NN	<fs af='ਰਾਜ,n,m,sg,3,d,,' poslcat="NM" name="ਰਾਜ"> 
+
+)) 
+
+10	((	NP	<fs name='NP6' af='ਅਹਿਲਕਾਰ,n,m,pl,3,o,0_ਤੇ,' head="ਅਹਿਲਕਾਰਾਂ" poslcat="NM" vpos="vib1_2"> 
+
+10.1	ਅਹਿਲਕਾਰਾਂ	NN	<fs af='ਅਹਿਲਕਾਰ,n,m,pl,3,o,,' poslcat="NM" name="ਅਹਿਲਕਾਰਾਂ"> 
+
+)) 
+
+11	((	NP	<fs name='NP7' af='ਦਰਬਾਰੀ,adj,any,pl,,o,0_ਨੇ,' head="ਦਰਬਾਰੀਆਂ" poslcat="NM" vpos="vib1_2"> 
+
+11.1	ਦਰਬਾਰੀਆਂ	NN	<fs af='ਦਰਬਾਰੀ,adj,any,pl,,o,,' poslcat="NM" name="ਦਰਬਾਰੀਆਂ"> 
+
+)) 
+
+12	((	NP	<fs name='NP8' af='ਉਹ,pn,any,pl,,o,0_ਦੇ,' poslcat="NM" head="ਉਨ੍ਹਾਂ" vpos="vib1_2"> 
+
+12.1	ਉਨ੍ਹਾਂ	PRP	<fs af='ਉਹ,pn,any,pl,,o,,' poslcat="NM" name="ਉਨ੍ਹਾਂ"  ref='NP3' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+13	((	NP	<fs name='NP9' af='ਗ਼ਮ,n,m,sg,3,d,0_ਨੂੰ,' head="ਗ਼ਮ" poslcat="NM" vpos="vib1_2"> 
+
+13.1	ਗ਼ਮ	NN	<fs af='ਗ਼ਮ,n,m,sg,3,d,,' poslcat="NM" name="ਗ਼ਮ"> 
+
+)) 
+
+14	((	VGNN	<fs af='ਭੁਲਾ,v,any,sg,any,,ਣ_ਲੈ+ਇਆ,ਣ' head="ਭੁਲਾਉਣ" poslcat="NM" vpos="tam1_2"> 
+
+14.1	ਭੁਲਾਉਣ	VM	<fs af='ਭੁਲਾ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਭੁਲਾਉਣ"> 
+
+)) 
+
+15	((	NP	<fs name='NP10' af='ਸ਼ੈ,n,f,pl,3,o,,' poslcat="NM" head="ਸ਼ੈਆਂ"> 
+
+15.1	ਸ਼ੈਆਂ	NN	<fs af='ਸ਼ੈ,n,f,pl,3,o,,' poslcat="NM" name="ਸ਼ੈਆਂ"> 
+
+)) 
+
+16	((	VGF	<fs name='VGF3' af='ਦਿਲਬਰੀਆਂ,unk,,pl,any,,0_ਦੇ+ਇਆ,' poslcat="NM" head="ਦਿਲਬਰੀਆਂ" vpos="tam1_2"> 
+
+16.1	ਦਿਲਬਰੀਆਂ	VM	<fs af='ਦਿਲਬਰੀਆਂ,unk,,,,,,' poslcat="NM" name="ਦਿਲਬਰੀਆਂ"> 
+
+)) 
+
+17	((	CCP	<fs name='CCP2' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+17.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+18	((	NP	<fs name='NP11' af='ਢਾਰਸ,n,m,pl,3,o,,' poslcat="NM" head="ਢਾਰਸਾਂ"> 
+
+18.1	ਢਾਰਸਾਂ	NN	<fs af='ਢਾਰਸ,n,m,pl,3,o,,' poslcat="NM" name="ਢਾਰਸਾਂ"> 
+
+)) 
+
+19	((	VGF	<fs name='VGF4' af='ਬਨ੍ਹਾ,v,f,pl,any,,ਇਆ,ਇਆ' poslcat="NM" head="ਬਨ੍ਹਾਈਆਂ"> 
+
+19.1	ਬਨ੍ਹਾਈਆਂ	VM	<fs af='ਬਨ੍ਹਾ,v,f,pl,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਬਨ੍ਹਾਈਆਂ"> 
+
+19.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="20"> 
+
+1	((	NP	<fs name='NP' af='ਸਮਾਂ,n,m,sg,3,d,,' poslcat="NM" head="ਸਮਾਂ"> 
+
+1.1	ਸਮਾਂ	NN	<fs af='ਸਮਾਂ,n,m,sg,3,d,,' poslcat="NM" name="ਸਮਾਂ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਤੋਰ,v,any,sg,3,,ਏ,ਏ' poslcat="NM" head="ਤੋਰੇ"> 
+
+2.1	ਆਪਣੀ	PRP	<fs af='ਆਪਣਾ,adj,f,sg,,d,,' poslcat="NM" ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+2.2	ਤੋਰੇ	NN	<fs af='ਤੋਰ,v,any,sg,3,,ਏ,ਏ' poslcat="NM" name="ਤੋਰੇ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਤੁਰ,v,m,sg,any,,ਦਾ_ਰਿਹਾ+0,ਦਾ' head="ਤੁਰਦਾ" poslcat="NM" vpos="tam1_2"> 
+
+3.1	ਤੁਰਦਾ	VM	<fs af='ਤੁਰ,v,m,sg,any,,ਦਾ,ਦਾ' poslcat="NM" name="ਤੁਰਦਾ"> 
+
+3.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="21"> 
+
+1	((	NP	<fs name='NP' af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" head="ਰੂਪ"> 
+
+1.1	ਰੂਪ	NN	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" name="ਰੂਪ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਜਵਾਨੀ,n,f,sg,3,d,0_ਦੀ,' poslcat="NM" head="ਜਵਾਨੀ" vpos="vib1_vib2_3"> 
+
+2.1	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM"> 
+
+2.2	ਜਵਾਨੀ	NN	<fs af='ਜਵਾਨੀ,n,f,sg,3,d,,' poslcat="NM" name="ਜਵਾਨੀ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਬਰੂਹਾਂ,unk,,,,,,' poslcat="NM" head="ਬਰੂਹਾਂ"> 
+
+3.1	ਬਰੂਹਾਂ	NN	<fs af='ਬਰੂਹਾਂ,unk,,,,,,' poslcat="NM" name="ਬਰੂਹਾਂ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='’ਤੇਪੁੱਜ,unk,any,pl,3,,0_ਚੁੱਕ+ਏ_ਸੀ+0,' poslcat="NM" head="’ਤੇਪੁੱਜ" vpos="tam1_2_3"> 
+
+4.1	’ਤੇਪੁੱਜ	VM	<fs af='’ਤੇਪੁੱਜ,unk,,,,,,' poslcat="NM" name="’ਤੇਪੁੱਜ"> 
+
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="22"> 
+
+1	((	NP	<fs name='NP' af='ਉਹ,pn,any,pl,,o,0_ਦੇ,' poslcat="NM" head="ਉਨ੍ਹਾਂ" vpos="vib1_2"> 
+
+1.1	ਉਨ੍ਹਾਂ	PRP	<fs af='ਉਹ,pn,any,pl,,o,,' poslcat="NM" name="ਉਨ੍ਹਾਂ"  ref='..%21%NP,..%21%NP2' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਸ਼ੌਕ,n,m,sg,3,d,,' poslcat="NM" head="ਸ਼ੌਕ_2"> 
+
+2.1	ਆਪਣੇ	PRP	<fs af='ਆਪਣਾ,adj,m,sg,,o,,' poslcat="NM"  ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+2.2	ਸ਼ੌਕ	NN	<fs af='ਸ਼ੌਕ,n,m,sg,3,d,,' poslcat="NM" name="ਸ਼ੌਕ_2"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਸੀ,v,any,pl,3,,,' poslcat="NM" head="ਸਨ"> 
+
+3.1	ਸਨ	VAUX	<fs af='ਸੀ,v,any,pl,3,,,' poslcat="NM" name="ਸਨ"> 
+
+3.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+4	((	NP	<fs name='NP3' af='ਰੂਪ,n,m,sg,3,d,0_ਨੂੰ,' head="ਰੂਪ" poslcat="NM" vpos="vib1_2"> 
+
+4.1	ਰੂਪ	NN	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" name="ਰੂਪ"> 
+
+)) 
+
+5	((	NP	<fs name='NP4' af='ਸ਼ਿਕਾਰ,n,m,sg,3,d,,' poslcat="NM" head="ਸ਼ਿਕਾਰ"> 
+
+5.1	ਸ਼ਿਕਾਰ	NN	<fs af='ਸ਼ਿਕਾਰ,n,m,sg,3,d,,' poslcat="NM" name="ਸ਼ਿਕਾਰ"> 
+
+)) 
+
+6	((	VGNN	<fs af='ਖੇਡ,v,any,sg,any,,ਣ_ਦਾ+0,ਣ' head="ਖੇਡਣ" poslcat="NM" vpos="tam1_2"> 
+
+6.1	ਖੇਡਣ	VM	<fs af='ਖੇਡ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਖੇਡਣ"> 
+
+)) 
+
+7	((	NP	<fs name='NP5' af='ਸ਼ੌਕ,n,m,sg,3,d,,' poslcat="NM" head="ਸ਼ੌਕ"> 
+
+7.1	ਸ਼ੌਕ	NN	<fs af='ਸ਼ੌਕ,n,m,sg,3,d,,' poslcat="NM" name="ਸ਼ੌਕ"> 
+
+)) 
+
+8	((	VGF	<fs name='VGF2' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ_2"> 
+
+8.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ_2"> 
+
+)) 
+
+9	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+9.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+10	((	NP	<fs name='NP6' af='ਕਬੂਤਰ,n,m,sg,3,d,,' poslcat="NM" head="ਕਬੂਤਰ"> 
+
+10.1	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM"> 
+
+10.2	ਕਬੂਤਰ	NN	<fs af='ਕਬੂਤਰ,n,m,sg,3,d,,' poslcat="NM" name="ਕਬੂਤਰ"> 
+
+)) 
+
+11	((	VGNN	<fs af='ਉਡਾ,v,any,sg,any,,ਣ_ਦਾ+0,ਣ' poslcat="NM" head="ਉਡਾਉਣ" vpos="tam1_2"> 
+
+11.1	ਉਡਾਉਣ	VM	<fs af='ਉਡਾ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਉਡਾਉਣ"> 
+
+)) 
+
+12	((	NP	<fs name='NP7' af='ਸ਼ੌਕੀਨ,adj,any,sg,,d,,' poslcat="NM" head="ਸ਼ੌਕੀਨ"> 
+
+12.1	ਸ਼ੌਕੀਨ	NN	<fs af='ਸ਼ੌਕੀਨ,adj,any,sg,,d,,' poslcat="NM" name="ਸ਼ੌਕੀਨ"> 
+
+)) 
+
+13	((	VGF	<fs name='VGF3' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+13.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+13.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="23"> 
+
+1	((	NP	<fs name='NP' af='ਜਵਾਨੀ,n,f,sg,3,d,,' poslcat="NM" head="ਜਵਾਨੀ"> 
+
+1.1	ਅੱਲ੍ਹੜ	NNP	<fs af='ਅੱਲ੍ਹੜ,unk,,,,,,' poslcat="NM"> 
+
+1.2	ਜਵਾਨੀ	NN	<fs af='ਜਵਾਨੀ,n,f,sg,3,d,,' poslcat="NM" name="ਜਵਾਨੀ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਸ਼ੌਕ,n,m,pl,3,o,,' poslcat="NM" head="ਸ਼ੌਕਾਂ"> 
+
+2.1	ਆਪਣੇ	PRP	<fs af='ਆਪਣਾ,adj,m,sg,,o,,' poslcat="NM"  ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+2.2	ਸ਼ੌਕਾਂ	NN	<fs af='ਸ਼ੌਕ,n,m,pl,3,o,,' poslcat="NM" name="ਸ਼ੌਕਾਂ"> 
+
+)) 
+
+3	((	JJP	<fs name='JJP' af='’ਚਮਸਤ,unk,,,,,,' poslcat="NM" head="’ਚਮਸਤ"> 
+
+3.1	’ਚਮਸਤ	JJ	<fs af='’ਚਮਸਤ,unk,,,,,,' poslcat="NM" name="’ਚਮਸਤ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+4.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="24"> 
+
+1	((	NP	<fs name='NP' af='ਸੈਨ,unk,,,,,0_ਨੂੰ,' head="ਸੈਨ" poslcat="NM" vpos="vib2_3"> 
+
+1.1	ਖੜਗ	NNPC	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਸੈਨ	NNP	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਦਰਬਾਰ,n,m,sg,3,d,0_ਦੇ,' poslcat="NM" head="ਦਰਬਾਰ" vpos="vib2_3"> 
+
+2.1	ਰਾਜ	NNC	<fs af='ਰਾਜ,n,m,sg,3,d,,' poslcat="NM"> 
+
+2.2	ਦਰਬਾਰ	NN	<fs af='ਦਰਬਾਰ,n,m,sg,3,d,,' poslcat="NM" name="ਦਰਬਾਰ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਕੰਮ,n,m,pl,3,o,,' poslcat="NM" head="ਕੰਮਾਂ"> 
+
+3.1	ਕੰਮਾਂ	NN	<fs af='ਕੰਮ,n,m,pl,3,o,,' poslcat="NM" name="ਕੰਮਾਂ"> 
+
+3.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਕਾਜ,n,m,pl,3,o,0_ਤੋਂ,' head="ਕਾਜਾਂ" poslcat="NM" vpos="vib1_2"> 
+
+4.1	ਕਾਜਾਂ	NN	<fs af='ਕਾਜ,n,m,pl,3,o,,' poslcat="NM" name="ਕਾਜਾਂ"> 
+
+)) 
+
+5	((	NP	<fs name='NP5' af='ਵਿਹਲ,n,any,sg,3,d,,' poslcat="NM" head="ਵਿਹਲ"> 
+
+5.1	ਵਿਹਲ	NN	<fs af='ਵਿਹਲ,n,any,sg,3,d,,' poslcat="NM" name="ਵਿਹਲ"> 
+
+)) 
+
+6	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+6.1	ਨਹੀਂ	NEG	<fs af='ਨਹੀਂ,avy,,,,,,' poslcat="NM"> 
+
+6.2	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+6.3	ਮਿਲਦੀ	VM	<fs af='ਮਿਲਦੀ,unk,,,,,,' poslcat="NM"> 
+
+6.4	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM" name="."> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="25"> 
+
+1	((	NP	<fs name='NP' af='ਰੁਝੇਵਾਂ,n,m,pl,3,o,0_ਕਰ,' head="ਰੁਝੇਵਿਆਂ" poslcat="NM" vpos="vib2_3"> 
+
+1.1	ਇਨ੍ਹਾਂ	DEM	<fs af='ਇਹ,pn,any,pl,,o,,' poslcat="NM"> 
+
+1.2	ਰੁਝੇਵਿਆਂ	NN	<fs af='ਰੁਝੇਵਾਂ,n,m,pl,3,o,,' poslcat="NM" name="ਰੁਝੇਵਿਆਂ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਰਾਣੀ,n,f,sg,3,d,0_ਦੇ,' head="ਰਾਣੀ" poslcat="NM" vpos="vib1_2"> 
+
+2.1	ਰਾਣੀ	NN	<fs af='ਰਾਣੀ,n,f,sg,3,d,,' poslcat="NM" name="ਰਾਣੀ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਵਿਯੋਗ,n,m,sg,3,d,0_ਨੂੰ,' head="ਵਿਯੋਗ" poslcat="NM" vpos="vib1_2"> 
+
+3.1	ਵਿਯੋਗ	NN	<fs af='ਵਿਯੋਗ,n,m,sg,3,d,,' poslcat="NM" name="ਵਿਯੋਗ"> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" head="ਉਹ"> 
+
+4.1	ਉਹ	PRP	<fs af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" name="ਉਹ"  ref='..%24%NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਭੁੱਲ,v,any,sg,3,,ਣ_ਲੱਗ+ਏ,ਣ' poslcat="NM" head="ਭੁੱਲਣ" vpos="tam1_2"> 
+
+5.1	ਭੁੱਲਣ	VM	<fs af='ਭੁੱਲ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਭੁੱਲਣ"> 
+
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="26"> 
+
+1	((	NP	<fs name='NP' af='ਸੈਨ,unk,,,,,0_ਨੂੰ,' head="ਸੈਨ" poslcat="NM" vpos="vib2_3"> 
+
+1.1	ਖੜਗ	NNPC	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਸੈਨ	NNP	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਰਾਣੀ,n,f,sg,3,d,,' poslcat="NM" head="ਰਾਣੀ"> 
+
+2.1	ਆਪਣੀ	PRP	<fs af='ਆਪਣਾ,adj,f,sg,,d,,' poslcat="NM"  ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+2.2	ਰਾਣੀ	NN	<fs af='ਰਾਣੀ,n,f,sg,3,d,,' poslcat="NM" name="ਰਾਣੀ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਰੂਪਵਤੀ,unk,,,,,0_ਨਾਲ,' poslcat="NM" head="ਰੂਪਵਤੀ" vpos="vib1_2"> 
+
+3.1	ਰੂਪਵਤੀ	NN	<fs af='ਰੂਪਵਤੀ,unk,,,,,,' poslcat="NM" name="ਰੂਪਵਤੀ"> 
+
+)) 
+
+4	((	JJP	<fs name='JJP' af='ਮੁਹੱਬਤ,n,f,sg,3,d,,' poslcat="NM" head="ਮੁਹੱਬਤ"> 
+
+4.1	ਬਹੁਤ	INTF	<fs af='ਬਹੁਤ,adj,,,,d,,' poslcat="NM"> 
+
+4.2	ਮੁਹੱਬਤ	JJ	<fs af='ਮੁਹੱਬਤ,n,f,sg,3,d,,' poslcat="NM" name="ਮੁਹੱਬਤ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+5.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="27"> 
+
+1	((	NP	<fs name='NP' af='ਉਹ,pn,any,sg,,o,0_ਦੇ,' head="ਉਸ" poslcat="NM" vpos="vib1_2"> 
+
+1.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ"  ref='..%26%NP3' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਵਿਛੋੜਾ,n,m,sg,3,o,0_ਦਾ,' head="ਵਿਛੋੜੇ" poslcat="NM" vpos="vib1_2"> 
+
+2.1	ਵਿਛੋੜੇ	NN	<fs af='ਵਿਛੋੜਾ,n,m,sg,3,o,,' poslcat="NM" name="ਵਿਛੋੜੇ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਉਹਦਾ,pn,m,sg,,o,,' poslcat="NM" head="ਉਹਦੇ"> 
+
+3.1	ਉਹਦੇ	PRP	<fs af='ਉਹਦਾ,pn,m,sg,,o,,' poslcat="NM" name="ਉਹਦੇ"  ref='..%26%NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਮਨ,n,m,sg,3,d,,' poslcat="NM" head="ਮਨ"> 
+
+4.1	ਮਨ	NN	<fs af='ਮਨ,n,m,sg,3,d,,' poslcat="NM" name="ਮਨ"> 
+
+)) 
+
+5	((	CCP	<fs name='CCP' af='ਅਤੇ,avy,,,,,,' poslcat="NM" head="ਅਤੇ"> 
+
+5.1	ਅਤੇ	CC	<fs af='ਅਤੇ,avy,,,,,,' poslcat="NM" name="ਅਤੇ"> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਸਰੀਰ,n,m,sg,3,d,,' poslcat="NM" head="ਸਰੀਰ"> 
+
+6.1	ਸਰੀਰ	NN	<fs af='ਸਰੀਰ,n,m,sg,3,d,,' poslcat="NM" name="ਸਰੀਰ"> 
+
+)) 
+
+7	((	NP	<fs name='NP6' af='ਪ੍ਰਭਾਵ,n,m,sg,3,d,,' poslcat="NM" head="ਪ੍ਰਭਾਵ"> 
+
+7.1	’ਤੇਬਹੁਤ	INTF	<fs af='’ਤੇਬਹੁਤ,unk,,,,,,' poslcat="NM"> 
+
+7.2	ਮਾੜਾ	JJ	<fs af='ਮਾੜਾ,adj,m,sg,,d,,' poslcat="NM"> 
+
+7.3	ਪ੍ਰਭਾਵ	NN	<fs af='ਪ੍ਰਭਾਵ,n,m,sg,3,d,,' poslcat="NM" name="ਪ੍ਰਭਾਵ"> 
+
+)) 
+
+8	((	VGF	<fs name='VGF' af='ਪੈ,v,any,sg,1,,0_ਰਿਹਾ+0_ਸੀ+0,0' head="ਪੈ" poslcat="NM" vpos="tam1_2_3"> 
+
+8.1	ਪੈ	VM	<fs af='ਪੈ,v,any,sg,2,,0,0' poslcat="NM" name="ਪੈ"> 
+
+8.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="28"> 
+
+1	((	NP	<fs name='NP' af='ਸੈਨ,unk,,,,,,' poslcat="NM" head="ਸੈਨ"> 
+
+1.1	ਖੜਗ	NNPC	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਸੈਨ	NNP	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਦਰਬਾਰ,n,m,sg,3,d,0_ਵਿੱਚ,' poslcat="NM" head="ਦਰਬਾਰ" vpos="vib2_3"> 
+
+2.1	ਰਾਜ	NNC	<fs af='ਰਾਜ,n,m,sg,3,d,,' poslcat="NM"> 
+
+2.2	ਦਰਬਾਰ	NN	<fs af='ਦਰਬਾਰ,n,m,sg,3,d,,' poslcat="NM" name="ਦਰਬਾਰ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਜਦੋਂ,adv,,,,d,,' poslcat="NM" head="ਜਦੋਂ"> 
+
+3.1	ਜਦੋਂ	PRP	<fs af='ਜਦੋਂ,adv,,,,d,,' poslcat="NM" name="ਜਦੋਂ "   ref='unk' refType='unk' dir='unk' refMod='unk' Ptype='UNK'> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਮਹਿਲ,n,m,pl,3,o,0_ਨੂੰ,' poslcat="NM" head="ਮਹਿਲਾਂ" vpos="vib1_vib2_3"> 
+
+4.1	ਆਪਣੇ	PRP	<fs af='ਆਪਣਾ,adj,m,sg,,o,,' poslcat="NM" ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+4.2	ਮਹਿਲਾਂ	NN	<fs af='ਮਹਿਲ,n,m,pl,3,o,,' poslcat="NM" name="ਮਹਿਲਾਂ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਆ,v,m,sg,any,,ਦਾ,ਦਾ' poslcat="NM" head="ਆਉਂਦਾ"> 
+
+5.1	ਆਉਂਦਾ	VM	<fs af='ਆ,v,m,sg,any,,ਦਾ,ਦਾ' poslcat="NM" name="ਆਉਂਦਾ"> 
+
+5.2	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਡੋਬ,v,any,sg,3,,ਊ,ਊ' poslcat="NM" head="ਡੋਬੂ"> 
+
+6.1	ਉਹਨੂੰ	PRP	<fs af='ਉਹ,pn,any,sg,,o,ਨੂੰ,ਨੂੰ' poslcat="NM" ref='NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+6.2	ਡੋਬੂ	NN	<fs af='ਡੋਬ,v,any,sg,3,,ਊ,ਊ' poslcat="NM" name="ਡੋਬੂ"> 
+
+)) 
+
+7	((	VGF	<fs name='VGF2' af='ਪੈ,v,any,pl,any,,ਣ_ਲੱਗ+0_ਜਾ+ਦਾ,ਣ' poslcat="NM" head="ਪੈਣ" vpos="tam1_2_3"> 
+
+7.1	ਪੈਣ	VM	<fs af='ਪੈ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਪੈਣ"> 
+
+7.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="29"> 
+
+1	((	NP	<fs name='NP' af='ਬਿਨਾਂ,psp,,,,d,,' poslcat="NM" head="ਬਿਨਾਂ"> 
+
+1.1	ਰਾਣੀ	NN	<fs af='ਰਾਣੀ,n,f,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਬਿਨਾਂ	NEG	<fs af='ਬਿਨਾਂ,psp,,,,d,,' poslcat="NM" name="ਬਿਨਾਂ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਮਹਿਲ,n,m,sg,3,d,,' poslcat="NM" head="ਮਹਿਲ"> 
+
+2.1	ਸੁੰਨਾ	JJ	<fs af='ਸੁੰਨਾ,unk,,,,,,' poslcat="NM"> 
+
+2.2	ਮਹਿਲ	NN	<fs af='ਮਹਿਲ,n,m,sg,3,d,,' poslcat="NM" name="ਮਹਿਲ"> 
+
+)) 
+
+3	((	VGNF	<fs af='ਵੱਢ,n,m,sg,3,d,,' poslcat="NM" head="ਵੱਢ"> 
+
+3.1	ਵੱਢ	VM	<fs af='ਵੱਢ,n,m,sg,3,d,,' poslcat="NM" name="ਵੱਢ"> 
+
+3.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+3.3	ਵੱਢ	RDP	<fs af='ਵੱਢ,n,m,sg,3,d,,' poslcat="NM"> 
+
+)) 
+
+4	((	VGNN	<fs af='ਖਾ,v,any,any,any,,ਣ_ਨੂੰ+0,ਣ' head="ਖਾਣ" poslcat="NM" vpos="tam1_2"> 
+
+4.1	ਖਾਣ	VM	<fs af='ਖਾ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਖਾਣ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਆ,v,m,sg,any,,ਦਾ,ਦਾ' poslcat="NM" head="ਆਉਂਦਾ"> 
+
+5.1	ਆਉਂਦਾ	VM	<fs af='ਆ,v,m,sg,any,,ਦਾ,ਦਾ' poslcat="NM" name="ਆਉਂਦਾ"> 
+
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="30"> 
+
+1	((	NP	<fs name='NP' af='ਵਰ੍ਹਾ,n,m,sg,3,o,,' poslcat="NM" head="ਵਰ੍ਹੇ"> 
+
+1.1	ਦੋ	QC	<fs af='ਦੋ,num,any,pl,,d,,' poslcat="NM"> 
+
+1.2	ਢਾਈ	QC	<fs af='ਢਾਈ,adj,any,sg,,d,,' poslcat="NM"> 
+
+1.3	ਵਰ੍ਹੇ	NN	<fs af='ਵਰ੍ਹਾ,n,m,sg,3,o,,' poslcat="NM" name="ਵਰ੍ਹੇ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਅਵਸਥਾ,n,f,sg,3,d,0_ਵਿੱਚ,' head="ਅਵਸਥਾ" poslcat="NM" vpos="vib2_3"> 
+
+2.1	ਇਸੇ	DEM	<fs af='ਇਹ,pn,any,sg,,o,,' poslcat="NM"> 
+
+2.2	ਅਵਸਥਾ	NN	<fs af='ਅਵਸਥਾ,n,f,sg,3,d,,' poslcat="NM" name="ਅਵਸਥਾ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਲੰਘ,v,any,pl,any,,0_ਜਾ+ਇਆ,0' poslcat="NM" head="ਲੰਘ" vpos="tam1_2"> 
+
+3.1	ਲੰਘ	VM	<fs af='ਲੰਘ,v,any,sg,2,,0,0' poslcat="NM" name="ਲੰਘ"> 
+
+3.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="31"> 
+
+1	((	NP	<fs name='NP' af='ਆਖਰ,adv,,,,d,,' poslcat="NM" head="ਆਖਰ"> 
+
+1.1	ਆਖਰ	NN	<fs af='ਆਖਰ,adv,,,,d,,' poslcat="NM" name="ਆਖਰ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਉਹਦਾ,pn,m,sg,,o,,' poslcat="NM" head="ਉਹਦੇ"> 
+
+2.1	ਉਹਦੇ	PRP	<fs af='ਉਹਦਾ,pn,m,sg,,o,,' poslcat="NM" name="ਉਹਦੇ" ref='..%28%NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਵਜ਼ੀਰ,n,m,pl,3,o,0_ਨੇ,' head="ਵਜ਼ੀਰਾਂ" poslcat="NM" vpos="vib3_4"> 
+
+3.1	ਅਮੀਰਾਂ	NNC	<fs af='ਅਮੀਰ,adj,any,pl,,o,,' poslcat="NM"> 
+
+3.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+3.3	ਵਜ਼ੀਰਾਂ	NN	<fs af='ਵਜ਼ੀਰ,n,m,pl,3,o,,' poslcat="NM" name="ਵਜ਼ੀਰਾਂ"> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਉਹ,pn,any,sg,,o,0_ਨੂੰ,' poslcat="NM" head="ਉਸ" vpos="vib1_2"> 
+
+4.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='NP2' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+5	((	NP	<fs name='NP5' af='ਸ਼ਾਦੀ,n,f,sg,3,d,,' poslcat="NM" head="ਸ਼ਾਦੀ"> 
+
+5.1	ਦੂਜੀ	QO	<fs af='ਦੂਜਾ,adj,f,sg,,d,,' poslcat="NM"> 
+
+5.2	ਸ਼ਾਦੀ	NN	<fs af='ਸ਼ਾਦੀ,n,f,sg,3,d,,' poslcat="NM" name="ਸ਼ਾਦੀ"> 
+
+)) 
+
+6	((	VGNN	<fs af='ਕਰਵਾ,v,any,sg,any,,ਣ_ਲੈ+ਇਆ,ਣ' poslcat="NM" head="ਕਰਵਾਉਣ" vpos="tam1_2"> 
+
+6.1	ਕਰਵਾਉਣ	VM	<fs af='ਕਰਵਾ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਕਰਵਾਉਣ"> 
+
+)) 
+
+7	((	VGF	<fs name='VGF' af='ਮਨਾ,v,any,sg,2,,0_ਲਿਆ+0,0' poslcat="NM" head="ਮਨਾ" vpos="tam1_2"> 
+
+7.1	ਮਨਾ	VM	<fs af='ਮਨਾ,v,any,sg,2,,0,0' poslcat="NM" name="ਮਨਾ"> 
+
+7.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="32"> 
+
+1	((	NP	<fs name='NP' af='ਰਾਜਾ,n,m,pl,3,o,0_ਨੂੰ,' head="ਰਾਜਿਆਂ" poslcat="NM" vpos="vib1_2"> 
+
+1.1	ਰਾਜਿਆਂ	NN	<fs af='ਰਾਜਾ,n,m,pl,3,o,,' poslcat="NM" name="ਰਾਜਿਆਂ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਸ਼ਾਦੀ,n,f,pl,3,o,0_ਦਾ,' poslcat="NM" head="ਸ਼ਾਦੀਆਂ" vpos="vib2_3"> 
+
+2.1	ਭਲਾ	NNC	<fs af='ਭਲਾ,adj,m,sg,,d,,' poslcat="NM"> 
+
+2.2	ਸ਼ਾਦੀਆਂ	NN	<fs af='ਸ਼ਾਦੀ,n,f,pl,3,o,,' poslcat="NM" name="ਸ਼ਾਦੀਆਂ"> 
+
+)) 
+
+3	((	RBP	<fs name='RBP' af='ਕੀ,psp,f,sg,,d,,' poslcat="NM" head="ਕੀ"> 
+
+3.1	ਕੀ	WQ	<fs af='ਕੀ,psp,f,sg,,d,,' poslcat="NM" name="ਕੀ"> 
+
+)) 
+
+4	((	NP	<fs name='NP3' af='ਘਾਟਾ,n,m,sg,3,d,,' poslcat="NM" head="ਘਾਟਾ"> 
+
+4.1	ਘਾਟਾ	NN	<fs af='ਘਾਟਾ,n,m,sg,3,d,,' poslcat="NM" name="ਘਾਟਾ"> 
+
+4.2	!	SYM	<fs af='!,unk,,,,,,' poslcat="NM"> 
+
+)) 
+
+5	((	NP	<fs name='NP4' af='ਸੰਗਲਾਦੀਪ,unk,,,,,0_ਦੇ,' poslcat="NM" head="ਸੰਗਲਾਦੀਪ" vpos="vib1_2"> 
+
+5.1	ਸੰਗਲਾਦੀਪ	NN	<fs af='ਸੰਗਲਾਦੀਪ,unk,,,,,,' poslcat="NM" name="ਸੰਗਲਾਦੀਪ"> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਰਾਜਪੂਤ,n,m,sg,3,d,,' poslcat="NM" head="ਰਾਜਪੂਤ"> 
+
+6.1	ਰਾਜਪੂਤ	NN	<fs af='ਰਾਜਪੂਤ,n,m,sg,3,d,,' poslcat="NM" name="ਰਾਜਪੂਤ"> 
+
+)) 
+
+7	((	NP	<fs name='NP6' af='ਇੰਦਰਸੈਨ,unk,,,,,0_ਨੇ,' poslcat="NM" head="ਇੰਦਰਸੈਨ" vpos="vib2_3"> 
+
+7.1	ਸਰਦਾਰ	NNPC	<fs af='ਸਰਦਾਰ,n,m,sg,3,d,,' poslcat="NM"> 
+
+7.2	ਇੰਦਰਸੈਨ	NNP	<fs af='ਇੰਦਰਸੈਨ,unk,,,,,,' poslcat="NM" name="ਇੰਦਰਸੈਨ"> 
+
+)) 
+
+8	((	NP	<fs name='NP7' af='ਵਰ੍ਹਾ,n,m,sg,3,o,0_ਦੀ,' poslcat="NM" head="ਵਰ੍ਹੇ" vpos="vib1_vib4_vib5_6"> 
+
+8.1	ਆਪਣੀ	PRP	<fs af='ਆਪਣਾ,adj,f,sg,,d,,' poslcat="NM" ref='NP6' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+8.2	ਸੋਲ੍ਹਾਂ	NNC	<fs af='ਸੋਲਾ,num,any,pl,,o,,' poslcat="NM"> 
+
+8.3	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+8.4	ਸਤਾਰ੍ਹਾਂ	NN	<fs af='ਸਤਾਰਾਂ,num,any,pl,,o,,' poslcat="NM"> 
+
+8.5	ਵਰ੍ਹੇ	NN	<fs af='ਵਰ੍ਹਾ,n,m,sg,3,o,,' poslcat="NM" name="ਵਰ੍ਹੇ"> 
+
+)) 
+
+9	((	NP	<fs name='NP8' af='ਪਰੀ,n,f,pl,3,o,0_ਵਰਗੀ,' poslcat="NM" head="ਪਰੀਆਂ" vpos="vib1_2"> 
+
+9.1	ਪਰੀਆਂ	NN	<fs af='ਪਰੀ,n,f,pl,3,o,,' poslcat="NM" name="ਪਰੀਆਂ"> 
+
+)) 
+
+10	((	NP	<fs name='NP9' af='ਅੱਧਖੜ,unk,,,,,,' poslcat="NM" head="ਅੱਧਖੜ"> 
+
+10.1	ਮਲੂਕ	NNPC	<fs af='ਮਲੂਕ,adj,,,,d,,' poslcat="NM"> 
+
+10.2	ਧੀ	NNPC	<fs af='ਧੀ,n,f,sg,3,d,,' poslcat="NM"> 
+
+10.3	ਚੰਦਰਵਤੀ	NNPC	<fs af='ਚੰਦਰਵਤੀ,unk,,,,,,' poslcat="NM"> 
+
+10.4	ਅੱਧਖੜ	NNP	<fs af='ਅੱਧਖੜ,unk,,,,,,' poslcat="NM" name="ਅੱਧਖੜ"> 
+
+)) 
+
+11	((	NP	<fs name='NP10' af='ਉਮਰ,n,f,sg,3,d,0_ਦੇ,' head="ਉਮਰ" poslcat="NM" vpos="vib1_2"> 
+
+11.1	ਉਮਰ	NN	<fs af='ਉਮਰ,n,f,sg,3,d,,' poslcat="NM" name="ਉਮਰ"> 
+
+)) 
+
+12	((	NP	<fs name='NP11' af='ਸੈਨ,unk,,,,,0_ਨਾਲ,' head="ਸੈਨ" poslcat="NM" vpos="vib1_vib3_4"> 
+
+12.1	ਰਾਜਾ	NN	<fs af='ਰਾਜਾ,n,m,sg,3,d,,' poslcat="NM"> 
+
+12.2	ਖੜਗ	NNPC	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+12.3	ਸੈਨ	NNP	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+13	((	NP	<fs name='NP12' af='ਵਿਆਹ,n,m,sg,3,d,,' poslcat="NM" head="ਵਿਆਹ"> 
+
+13.1	ਵਿਆਹ	NN	<fs af='ਵਿਆਹ,n,m,sg,3,d,,' poslcat="NM" name="ਵਿਆਹ"> 
+
+)) 
+
+14	((	VGF	<fs name='VGF' af='ਦੇ,v,f,sg,any,,ਇਆ,ਇਆ' poslcat="NM" head="ਦਿੱਤੀ"> 
+
+14.1	ਦਿੱਤੀ	VM	<fs af='ਦੇ,v,f,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਦਿੱਤੀ"> 
+
+14.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="33"> 
+
+1	((	NP	<fs name='NP' af='ਮਹਿਲ,n,m,pl,3,o,0_ਵਿੱਚ,' poslcat="NM" head="ਮਹਿਲਾਂ" vpos="vib1_2"> 
+
+1.1	ਮਹਿਲਾਂ	NN	<fs af='ਮਹਿਲ,n,m,pl,3,o,,' poslcat="NM" name="ਮਹਿਲਾਂ"> 
+
+)) 
+
+2	((	VGNF	<fs af='ਮੁੜ,adv,,,,d,,' poslcat="NM" head="ਮੁੜ"> 
+
+2.1	ਮੁੜ	VM	<fs af='ਮੁੜ,adv,,,,d,,' poslcat="NM" name="ਮੁੜ"> 
+
+)) 
+
+3	((	NP	<fs name='NP2' af='ਰੌਣਕ,n,f,pl,3,o,,' poslcat="NM" head="ਰੌਣਕਾਂ"> 
+
+3.1	ਰੌਣਕਾਂ	NN	<fs af='ਰੌਣਕ,n,f,pl,3,o,,' poslcat="NM" name="ਰੌਣਕਾਂ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਆ,v,any,pl,any,,0_ਜਾ+ਇਆ,0' head="ਆ" poslcat="NM" vpos="tam1_2"> 
+
+4.1	ਆ	VM	<fs af='ਆ,v,any,sg,2,,0,0' poslcat="NM" name="ਆ"> 
+
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="34"> 
+
+1	((	NP	<fs name='NP' af='ਚੰਦਰਵਤੀ,unk,,,,,0_ਦੀ,' poslcat="NM" head="ਚੰਦਰਵਤੀ" vpos="vib1_2"> 
+
+1.1	ਚੰਦਰਵਤੀ	NN	<fs af='ਚੰਦਰਵਤੀ,unk,,,,,,' poslcat="NM" name="ਚੰਦਰਵਤੀ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਮਹਿਕ,n,f,pl,3,o,,' poslcat="NM" head="ਮਹਿਕਾਂ"> 
+
+2.1	ਮਹਿਕਾਂ	NN	<fs af='ਮਹਿਕ,n,f,pl,3,o,,' poslcat="NM" name="ਮਹਿਕਾਂ"> 
+
+)) 
+
+3	((	VGNF	<fs af='ਭਰ,v,f,sg,any,,ਇਆ,ਇਆ' poslcat="NM" head="ਭਰੀ"> 
+
+3.1	ਭਰੀ	VM	<fs af='ਭਰ,v,f,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਭਰੀ"> 
+
+)) 
+
+4	((	NP	<fs name='NP3' af='ਜਵਾਨੀ,n,f,sg,3,d,0_ਨੇ,' poslcat="NM" head="ਜਵਾਨੀ" vpos="vib1_2"> 
+
+4.1	ਜਵਾਨੀ	NN	<fs af='ਜਵਾਨੀ,n,f,sg,3,d,,' poslcat="NM" name="ਜਵਾਨੀ"> 
+
+)) 
+
+5	((	NP	<fs name='NP4' af='ਉਮਰ,n,f,sg,3,d,0_ਦੇ,' head="ਉਮਰ" poslcat="NM" vpos="vib2_3"> 
+
+5.1	ਅੱਧਖੜ	JJ	<fs af='ਅੱਧਖੜ,unk,,,,,,' poslcat="NM"> 
+
+5.2	ਉਮਰ	NN	<fs af='ਉਮਰ,n,f,sg,3,d,,' poslcat="NM" name="ਉਮਰ"> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਸੈਨ,unk,,,,,0_ਨੂੰ,' head="ਸੈਨ" poslcat="NM" vpos="vib2_3"> 
+
+6.1	ਖੜਗ	JJ	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+6.2	ਸੈਨ	NN	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+7	((	VGF	<fs name='VGF' af='ਕੀਲ,v,any,sg,2,,0_ਲਿਆ+0,0' head="ਕੀਲ" poslcat="NM" vpos="tam1_2"> 
+
+7.1	ਕੀਲ	VM	<fs af='ਕੀਲ,v,any,sg,2,,0,0' poslcat="NM" name="ਕੀਲ"> 
+
+7.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="35"> 
+
+1	((	NP	<fs name='NP' af='ਜਵਾਨੀ,n,f,sg,3,d,0_ਨੂੰ,' poslcat="NM" head="ਜਵਾਨੀ" vpos="vib2_3"> 
+
+1.1	ਮਾਂਗਵੀਂ	JJ	<fs af='ਮਾਂਗਵਾਂ,adj,f,sg,,d,,' poslcat="NM"> 
+
+1.2	ਜਵਾਨੀ	NN	<fs af='ਜਵਾਨੀ,n,f,sg,3,d,,' poslcat="NM" name="ਜਵਾਨੀ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਭਲਾ,adj,m,sg,,d,,' poslcat="NM" head="ਭਲਾ"> 
+
+2.1	ਉਹ	PRP	<fs af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" ref='..%34%NP5' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+2.2	ਭਲਾ	NN	<fs af='ਭਲਾ,adj,m,sg,,d,,' poslcat="NM" name="ਭਲਾ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਸਮਾਂ,n,m,sg,3,d,,' poslcat="NM" head="ਸਮਾਂ"> 
+
+3.1	ਕਿੰਨਾ	QF	<fs af='ਕਿੰਨਾ,adj,m,sg,,d,,' poslcat="NM"> 
+
+3.2	ਕੁ	RP	<fs af='ਕੁ,unk,,,,,,' poslcat="NM"> 
+
+3.3	ਸਮਾਂ	NN	<fs af='ਸਮਾਂ,n,m,sg,3,d,,' poslcat="NM" name="ਸਮਾਂ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਹੰਢਾ,v,m,sg,any,,ਦਾ,ਦਾ' poslcat="NM" head="ਹੰਢਾਉਂਦਾ"> 
+
+4.1	ਹੰਢਾਉਂਦਾ	VM	<fs af='ਹੰਢਾ,v,m,sg,any,,ਦਾ,ਦਾ' poslcat="NM" name="ਹੰਢਾਉਂਦਾ"> 
+
+4.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="36"> 
+
+1	((	NP	<fs name='NP' af='ਚੰਦਰਵਤੀ,unk,,,,,0_ਦੀ,' head="ਚੰਦਰਵਤੀ" poslcat="NM" vpos="vib1_2"> 
+
+1.1	ਚੰਦਰਵਤੀ	NN	<fs af='ਚੰਦਰਵਤੀ,unk,,,,,,' poslcat="NM" name="ਚੰਦਰਵਤੀ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਜਵਾਨੀ,n,f,sg,3,d,,' poslcat="NM" head="ਜਵਾਨੀ"> 
+
+2.1	ਜਵਾਨੀ	NN	<fs af='ਜਵਾਨੀ,n,f,sg,3,d,,' poslcat="NM" name="ਜਵਾਨੀ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਉਹਦਾ,pn,m,sg,,o,,' poslcat="NM" head="ਉਹਦੇ"> 
+
+3.1	ਉਹਦੇ	PRP	<fs af='ਉਹਦਾ,pn,m,sg,,o,,' poslcat="NM" name="ਉਹਦੇ" ref='NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਮਖਮਲੀ,adj,,,,d,,' poslcat="NM" head="ਮਖਮਲੀ"> 
+
+4.1	ਮਖਮਲੀ	NNP	<fs af='ਮਖਮਲੀ,adj,,,,d,,' poslcat="NM" name="ਮਖਮਲੀ"> 
+
+)) 
+
+5	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ_3"> 
+
+5.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ_3"> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਕੱਪੜਾ,n,m,pl,3,o,0_ਵਿੱਚ,' poslcat="NM" head="ਕੱਪੜਿਆਂ" vpos="vib2_3"> 
+
+6.1	ਰੇਸ਼ਮੀ	JJ	<fs af='ਰੇਸ਼ਮੀ,adj,,,,d,,' poslcat="NM"> 
+
+6.2	ਕੱਪੜਿਆਂ	NN	<fs af='ਕੱਪੜਾ,n,m,pl,3,o,,' poslcat="NM" name="ਕੱਪੜਿਆਂ"> 
+
+)) 
+
+7	((	VGF	<fs name='VGF' af='ਮਿਆਉਂਦੀ,unk,,sg,1,,0_ਸੀ+0,' poslcat="NM" head="ਮਿਆਉਂਦੀ" vpos="tam1_3"> 
+
+7.1	ਮਿਆਉਂਦੀ	VM	<fs af='ਮਿਆਉਂਦੀ,unk,,,,,,' poslcat="NM" name="ਮਿਆਉਂਦੀ"> 
+
+7.2	ਨਹੀਂ	NEG	<fs af='ਨਹੀਂ,avy,,,,,,' poslcat="NM"> 
+
+)) 
+
+8	((	CCP	<fs name='CCP2' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ_2"> 
+
+8.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ_2"> 
+
+)) 
+
+9	((	NEGP	<fs af='ਹੀ,avy,,,,,,' poslcat="NM" head="ਹੀ"> 
+
+9.1	ਨਾ	NEG	<fs af='ਨਾ,avy,,,,,,' poslcat="NM"> 
+
+9.2	ਹੀ	RP	<fs af='ਹੀ,avy,,,,,,' poslcat="NM" name="ਹੀ"> 
+
+)) 
+
+10	((	NP	<fs name='NP6' af='ਉਹਦਾ,pn,m,sg,,d,,' poslcat="NM" head="ਉਹਦਾ"> 
+
+10.1	ਉਹਦਾ	PRP	<fs af='ਉਹਦਾ,pn,m,sg,,d,,' poslcat="NM" name="ਉਹਦਾ" ref='NP3' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+11	((	NP	<fs name='NP7' af='ਉਮਰ,n,f,sg,3,d,0_ਦਾ,' head="ਉਮਰ" poslcat="NM" vpos="vib2_3"> 
+
+11.1	ਅੱਧਖੜ	JJ	<fs af='ਅੱਧਖੜ,unk,,,,,,' poslcat="NM"> 
+
+11.2	ਉਮਰ	NN	<fs af='ਉਮਰ,n,f,sg,3,d,,' poslcat="NM" name="ਉਮਰ"> 
+
+)) 
+
+12	((	NP	<fs name='NP8' af='ਪਤੀ,n,m,sg,3,d,,' poslcat="NM" head="ਪਤੀ"> 
+
+12.1	ਪਤੀ	NN	<fs af='ਪਤੀ,n,m,sg,3,d,,' poslcat="NM" name="ਪਤੀ"> 
+
+)) 
+
+13	((	NP	<fs name='NP9' af='ਉਹ,pn,any,sg,,o,0_ਦੀ,' poslcat="NM" head="ਉਸ" vpos="vib1_2"> 
+
+13.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='NP6' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+14	((	NP	<fs name='NP10' af='ਭਾਵੁਕ,unk,,,,,,' poslcat="NM" head="ਭਾਵੁਕ"> 
+
+14.1	ਅੰਦਰੂਨੀ	JJ	<fs af='ਅੰਦਰੂਨੀ,unk,,,,,,' poslcat="NM"> 
+
+14.2	ਭਾਵੁਕ	NN	<fs af='ਭਾਵੁਕ,unk,,,,,,' poslcat="NM" name="ਭਾਵੁਕ"> 
+
+)) 
+
+15	((	CCP	<fs name='CCP3' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+15.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+16	((	NP	<fs name='NP11' af='ਭਾਵਨਾ,n,f,pl,3,o,0_ਨੂੰ,' poslcat="NM" head="ਭਾਵਨਾਵਾਂ" vpos="vib2_3"> 
+
+16.1	ਕਾਮੁਕ	JJ	<fs af='ਕਾਮੁਕ,unk,,,,,,' poslcat="NM"> 
+
+16.2	ਭਾਵਨਾਵਾਂ	NN	<fs af='ਭਾਵਨਾ,n,f,pl,3,o,,' poslcat="NM" name="ਭਾਵਨਾਵਾਂ"> 
+
+)) 
+
+17	((	NP	<fs name='NP12' af='ਸੰਤੁਸ਼ਟੀ,n,f,sg,3,d,,' poslcat="NM" head="ਸੰਤੁਸ਼ਟੀ"> 
+
+17.1	ਸੰਤੁਸ਼ਟੀ	NN	<fs af='ਸੰਤੁਸ਼ਟੀ,n,f,sg,3,d,,' poslcat="NM" name="ਸੰਤੁਸ਼ਟੀ"> 
+
+)) 
+
+18	((	NP	<fs name='NP13' af='ਪ੍ਰਦਾਨ,n,m,sg,3,d,,' poslcat="NM" head="ਪ੍ਰਦਾਨ"> 
+
+18.1	ਪ੍ਰਦਾਨ	NN	<fs af='ਪ੍ਰਦਾਨ,n,m,sg,3,d,,' poslcat="NM" name="ਪ੍ਰਦਾਨ"> 
+
+)) 
+
+19	((	VGNN	<fs af='ਕਰ,v,any,sg,2,,ਣ_ਦੇ+0,ਣ' head="ਕਰਨ" poslcat="NM" vpos="tam1_2"> 
+
+19.1	ਕਰਨ	VM	<fs af='ਕਰ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਕਰਨ"> 
+
+)) 
+
+20	((	JJP	<fs name='JJP' af='ਸਮਰੱਥ,adj,,,,d,,' poslcat="NM" head="ਸਮਰੱਥ"> 
+
+20.1	ਸਮਰੱਥ	JJ	<fs af='ਸਮਰੱਥ,adj,,,,d,,' poslcat="NM" name="ਸਮਰੱਥ"> 
+
+)) 
+
+21	((	VGF	<fs name='VGF2' af='ਸੀ,v,any,sg,1,,,' poslcat="NM" head="ਸੀ"> 
+
+21.1	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+21.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="37"> 
+
+1	((	NP	<fs name='NP' af='ਹੀਰਾ,n,m,sg,3,o,,' poslcat="NM" head="ਹੀਰੇ"> 
+
+1.1	ਹੀਰੇ	NN	<fs af='ਹੀਰਾ,n,m,sg,3,o,,' poslcat="NM" name="ਹੀਰੇ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਜਵਾਹਰਾਤ,n,m,pl,3,d,,' poslcat="NM" head="ਜਵਾਹਰਾਤ"> 
+
+2.1	ਜਵਾਹਰਾਤ	NN	<fs af='ਜਵਾਹਰਾਤ,n,m,pl,3,d,,' poslcat="NM" name="ਜਵਾਹਰਾਤ"> 
+
+)) 
+
+3	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+3.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+4	((	NP	<fs name='NP3' af='ਸ਼ਿੰਗਾਰ,n,m,sg,3,d,,' poslcat="NM" head="ਸ਼ਿੰਗਾਰ"> 
+
+4.1	ਹਾਰ	JJ	<fs af='ਹਾਰ,n,any,sg,3,d,,' poslcat="NM"> 
+
+4.2	ਸ਼ਿੰਗਾਰ	NN	<fs af='ਸ਼ਿੰਗਾਰ,n,m,sg,3,d,,' poslcat="NM" name="ਸ਼ਿੰਗਾਰ"> 
+
+)) 
+
+5	((	NP	<fs name='NP4' af='ਉਹ,pn,any,sg,,o,0_ਦੀ,' poslcat="NM" head="ਉਸ" vpos="vib1_2"> 
+
+5.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='..%36%NP9' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਤ੍ਰਿਸ਼ਨਾ,n,f,sg,3,d,0_ਨੂੰ,' head="ਤ੍ਰਿਸ਼ਨਾ" poslcat="NM" vpos="vib2_3"> 
+
+6.1	ਭਾਵੁਕ	JJ	<fs af='ਭਾਵੁਕ,unk,,,,,,' poslcat="NM"> 
+
+6.2	ਤ੍ਰਿਸ਼ਨਾ	NN	<fs af='ਤ੍ਰਿਸ਼ਨਾ,n,f,sg,3,d,,' poslcat="NM" name="ਤ੍ਰਿਸ਼ਨਾ"> 
+
+)) 
+
+7	((	JJP	<fs name='JJP' af='ਤ੍ਰਿਪਤ,adj,,,,d,,' poslcat="NM" head="ਤ੍ਰਿਪਤ"> 
+
+7.1	ਤ੍ਰਿਪਤ	JJ	<fs af='ਤ੍ਰਿਪਤ,adj,,,,d,,' poslcat="NM" name="ਤ੍ਰਿਪਤ"> 
+
+)) 
+
+8	((	VGF	<fs name='VGF' af='ਸੀ,v,any,sg,3,,0_ਰਹਿ+ਏ,' head="ਸੀ" poslcat="NM" vpos="tam2_4"> 
+
+8.1	ਨਹੀਂ	NEG	<fs af='ਨਹੀਂ,avy,,,,,,' poslcat="NM"> 
+
+8.2	ਸੀ	VAUX	<fs af='ਸੀ,v,any,sg,1,,,' poslcat="NM" name="ਸੀ"> 
+
+8.3	ਕਰ	VM	<fs af='ਕਰ,n,any,sg,3,d,,' poslcat="NM"> 
+
+8.4	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM" name="."> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="38"> 
+
+1	((	NP	<fs name='NP' af='ਜਦੋਂ,adv,,,,d,,' poslcat="NM" head="ਜਦੋਂ"> 
+
+1.1	ਜਦੋਂ	PRP	<fs af='ਜਦੋਂ,adv,,,,d,,' poslcat="NM" name="ਜਦੋਂ" ref='unk' refType='unk' dir='unk' refMod='unk' Ptype='UNK'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਕਦੀ,adv,,,,d,,' poslcat="NM" head="ਕਦੀ"> 
+
+2.1	ਕਦੀ	PRP	<fs af='ਕਦੀ,adv,,,,d,,' poslcat="NM" name="ਕਦੀ" ref='unk' refType='unk' dir='unk' refMod='unk' Ptype='UNK'> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" head="ਉਹ"> 
+
+3.1	ਉਹ	PRP	<fs af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" name="ਉਹ" ref='..%38%NP4' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+4	((	NP	<fs name='NP4' af='ਆਪਣਾ,adj,f,sg,,d,,' poslcat="NM" head="ਆਪਣੀ"> 
+
+4.1	ਆਪਣੀ	PRP	<fs af='ਆਪਣਾ,adj,f,sg,,d,,' poslcat="NM" name="ਆਪਣੀ" ref='NP3' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+)) 
+
+5	((	VGNN	<fs af='ਸੌਂਕਣ,n,f,sg,2,d,0_ਦੇ+0,' head="ਸੌਂਕਣ" poslcat="NM" vpos="tam1_2"> 
+
+5.1	ਸੌਂਕਣ	VM	<fs af='ਸੌਂਕਣ,n,f,sg,3,d,,' poslcat="NM" name="ਸੌਂਕਣ"> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਪੁੱਤਰ,n,m,pl,3,o,,' poslcat="NM" head="ਪੁੱਤਰਾਂ"> 
+
+6.1	ਪੁੱਤਰਾਂ	NN	<fs af='ਪੁੱਤਰ,n,m,pl,3,o,,' poslcat="NM" name="ਪੁੱਤਰਾਂ"> 
+
+6.2	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+7	((	NP	<fs name='NP6' af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" head="ਰੂਪ"> 
+
+7.1	ਰੂਪ	NN	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" name="ਰੂਪ"> 
+
+)) 
+
+8	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+8.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+9	((	NP	<fs name='NP7' af='ਬਸੰਤ,n,f,sg,3,d,0_ਵੱਲ,' head="ਬਸੰਤ" poslcat="NM" vpos="vib1_2"> 
+
+9.1	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" name="ਬਸੰਤ"> 
+
+)) 
+
+10	((	VGF	<fs name='VGF' af='ਵੇਖ,v,f,sg,any,,ਦਾ,ਦਾ' poslcat="NM" head="ਵੇਖਦੀ"> 
+
+10.1	ਵੇਖਦੀ	VM	<fs af='ਵੇਖ,v,f,sg,any,,ਦਾ,ਦਾ' poslcat="NM" name="ਵੇਖਦੀ"> 
+
+)) 
+
+11	((	CCP	<fs name='CCP2' af='ਤਾਂ,avy,,,,,,' poslcat="NM" head="ਤਾਂ"> 
+
+11.1	ਤਾਂ	CC	<fs af='ਤਾਂ,avy,,,,,,' poslcat="NM" name="ਤਾਂ"> 
+
+)) 
+
+12	((	NP	<fs name='NP8' af='ਖੁਸ਼ੀ,unk,,,,,,' poslcat="NM" head="ਖੁਸ਼ੀ"> 
+
+12.1	ਇੱਕ	QC	<fs af='ਇੱਕ,num,any,pl,,d,,' poslcat="NM"> 
+
+12.2	ਅਗੰਮੀ	JJ	<fs af='ਅਗੰਮੀ,unk,,,,,,' poslcat="NM"> 
+
+12.3	ਖੁਸ਼ੀ	NN	<fs af='ਖੁਸ਼ੀ,unk,,,,,,' poslcat="NM" name="ਖੁਸ਼ੀ"> 
+
+)) 
+
+13	((	NP	<fs name='NP9' af=''ਉਹਦਾ,pn,m,sg,,o,0_ਅੰਦਰ,' head="ਉਹਦਾ" poslcat="NM" vpos="vib1_2"> 
+
+13.1	ਉਹਦੇ	PRP	<fs af='ਉਹਦਾ,pn,m,sg,,o,,' poslcat="NM" ref='NP3' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+14	((	NP	<fs name='NP10' af='ਝਰਨਾਟਾਂ,unk,,,,,,' poslcat="NM" head="ਝਰਨਾਟਾਂ"> 
+
+14.1	ਝਰਨਾਟਾਂ	NN	<fs af='ਝਰਨਾਟਾਂ,unk,,,,,,' poslcat="NM" name="ਝਰਨਾਟਾਂ"> 
+
+)) 
+
+15	((	VGF	<fs name='VGF2' af='ਛੇੜ,n,any,sg,any,d,0_ਦੇ+ਦਾ,' head="ਛੇੜ" poslcat="NM" vpos="tam1_2"> 
+
+15.1	ਛੇੜ	VM	<fs af='ਛੇੜ,n,any,sg,3,d,,' poslcat="NM" name="ਛੇੜ"> 
+
+15.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="39"> 
+
+1	((	NP	<fs name='NP' af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" head="ਰੂਪ"> 
+
+1.1	ਰੂਪ	NN	<fs af='ਰੂਪ,n,m,sg,3,d,,' poslcat="NM" name="ਰੂਪ"> 
+
+)) 
+
+2	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ_2"> 
+
+2.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ_2"> 
+
+)) 
+
+3	((	NP	<fs name='NP2' af='ਲੋਹੜੇ,unk,,,,,0_ਦੇ,' head="ਲੋਹੜੇ" poslcat="NM" vpos="vib1_vib2_3"> 
+
+3.1	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM"> 
+
+3.2	ਲੋਹੜੇ	NN	<fs af='ਲੋਹੜੇ,unk,,,,,,' poslcat="NM" name="ਲੋਹੜੇ"> 
+
+)) 
+
+4	((	NP	<fs name='NP3' af='ਹੁਸੀਨ,adj,any,sg,,d,,' poslcat="NM" head="ਹੁਸੀਨ"> 
+
+4.1	ਹੁਸੀਨ	NN	<fs af='ਹੁਸੀਨ,adj,any,sg,,d,,' poslcat="NM" name="ਹੁਸੀਨ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਸੀ,v,any,pl,3,,,' poslcat="NM" head="ਸਨ"> 
+
+5.1	ਸਨ	VAUX	<fs af='ਸੀ,v,any,pl,3,,,' poslcat="NM" name="ਸਨ"> 
+
+)) 
+
+6	((	CCP	<fs name='CCP2' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+6.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+7	((	NP	<fs name='NP4' af='ਅਜੇ,adv,,,,d,,' poslcat="NM" head="ਅਜੇ"> 
+
+7.1	ਅਜੇ	PRP	<fs af='ਅਜੇ,adv,,,,d,,' poslcat="NM" name="ਅਜੇ"  ref='unk' refType='unk' dir='unk' refMod='unk' Ptype='UNK'> 
+
+)) 
+
+8	((	NP	<fs name='NP5' af='ਜਵਾਨੀ,n,f,sg,3,d,0_ਦੀ,' poslcat="NM" head="ਜਵਾਨੀ" vpos="vib1_2"> 
+
+8.1	ਜਵਾਨੀ	NN	<fs af='ਜਵਾਨੀ,n,f,sg,3,d,,' poslcat="NM" name="ਜਵਾਨੀ"> 
+
+)) 
+
+9	((	NP	<fs name='NP6' af='ਬਰੂਹਾਂ,unk,,,,,,' poslcat="NM" head="ਬਰੂਹਾਂ"> 
+
+9.1	ਬਰੂਹਾਂ	NN	<fs af='ਬਰੂਹਾਂ,unk,,,,,,' poslcat="NM" name="ਬਰੂਹਾਂ"> 
+
+)) 
+
+10	((	RBP	<fs name='RBP' af='’ਤੇਕਦਮ,unk,,,,,,' poslcat="NM" head="’ਤੇਕਦਮ"> 
+
+10.1	’ਤੇਕਦਮ	RB	<fs af='’ਤੇਕਦਮ,unk,,,,,,' poslcat="NM" name="’ਤੇਕਦਮ"> 
+
+)) 
+
+11	((	VGF	<fs name='VGF2' af='ਰੱਖ,n,any,pl,3,d,0_ਰਹਿ+ਏ_ਸੀ+0,' head="ਰੱਖ" poslcat="NM" vpos="tam1_2_3"> 
+
+11.1	ਰੱਖ	VM	<fs af='ਰੱਖ,n,f,sg,3,d,,' poslcat="NM" name="ਰੱਖ"> 
+
+11.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="40"> 
+
+1	((	NP	<fs name='NP' af='ਉਹਦਾ,pn,m,sg,,d,,' poslcat="NM" head="ਉਹਦਾ"> 
+
+1.1	ਉਹਦਾ	PRP	<fs af='ਉਹਦਾ,pn,m,sg,,d,,' poslcat="NM" name="ਉਹਦਾ" ref='..%38%NP9' refType='C' dir='A' refMod='' Ptype=PER3''> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਦਿਲ,n,m,sg,3,d,,' poslcat="NM" head="ਦਿਲ"> 
+
+2.1	ਦਿਲ	NN	<fs af='ਦਿਲ,n,m,sg,3,d,,' poslcat="NM" name="ਦਿਲ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਕਰ,v,m,sg,any,,ਦਾ,ਦਾ' poslcat="NM" head="ਕਰਦਾ"> 
+
+3.1	ਕਰਦਾ	VM	<fs af='ਕਰ,v,m,sg,any,,ਦਾ,ਦਾ' poslcat="NM" name="ਕਰਦਾ"> 
+
+)) 
+
+4	((	NP	<fs name='NP3' af='ਉਹ,pn,any,pl,,o,0_ਨਾਲ,' head="ਉਨ੍ਹਾਂ" poslcat="NM" vpos="vib1_2"> 
+
+4.1	ਉਨ੍ਹਾਂ	PRP	<fs af='ਉਹ,pn,any,pl,,o,,' poslcat="NM" name="ਉਨ੍ਹਾਂ" ref='..%39%NP,..%39%NP2' refType='C' dir='A' refMod='' Ptype=''PER3> 
+
+)) 
+
+5	((	VGF	<fs name='VGF2' af='ਹੱਸ,v,any,sg,3,,ਏ,ਏ' poslcat="NM" head="ਹੱਸੇ"> 
+
+5.1	ਹੱਸੇ	VM	<fs af='ਹੱਸ,v,any,sg,3,,ਏ,ਏ' poslcat="NM" name="ਹੱਸੇ"> 
+
+5.2	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+6	((	NP	<fs name='NP4' af='ਅਠਖੇਲੀਆਂ,unk,,,,,,' poslcat="NM" head="ਅਠਖੇਲੀਆਂ"> 
+
+6.1	ਖੇਡੇ	NNC	<fs af='ਖੇਡ,n,f,sg,3,o,ੀਂ1,ੀਂ1' poslcat="NM"> 
+
+6.2	ਅਠਖੇਲੀਆਂ	NN	<fs af='ਅਠਖੇਲੀਆਂ,unk,,,,,,' poslcat="NM" name="ਅਠਖੇਲੀਆਂ"> 
+
+)) 
+
+7	((	VGF	<fs name='VGF3' af='ਕਰ,v,any,sg,3,,ਏ,ਏ' poslcat="NM" head="ਕਰੇ"> 
+
+7.1	ਕਰੇ	VM	<fs af='ਕਰ,v,any,sg,3,,ਏ,ਏ' poslcat="NM" name="ਕਰੇ"> 
+
+7.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="41"> 
+
+1	((	NP	<fs name='NP' af='ਅੰਦਰ,adv,any,sg,,d,0_ਅੰਦਰ,' head="ਅੰਦਰ" poslcat="NM" vpos="vib1_2"> 
+
+1.1	ਉਹਦੇ	PRP	<fs af='ਉਹਦਾ,pn,m,sg,,o,,' poslcat="NM" ref='..%40%NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਖਾਹਿਸ਼,unk,,,,,,' poslcat="NM" head="ਖਾਹਿਸ਼"> 
+
+2.1	ਇੱਕ	QC	<fs af='ਇੱਕ,num,any,pl,,d,,' poslcat="NM"> 
+
+2.2	ਖਾਹਿਸ਼	NN	<fs af='ਖਾਹਿਸ਼,unk,,,,,,' poslcat="NM" name="ਖਾਹਿਸ਼"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਤੀਬਰਤਾ,n,f,sg,3,d,0_ਨਾਲ,' poslcat="NM" head="ਤੀਬਰਤਾ" vpos="vib2_3"> 
+
+3.1	ਬੜੀ	JJ	<fs af='ਬੜਾ,adj,f,sg,,d,,' poslcat="NM"> 
+
+3.2	ਤੀਬਰਤਾ	NN	<fs af='ਤੀਬਰਤਾ,n,f,sg,3,d,,' poslcat="NM" name="ਤੀਬਰਤਾ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਮਚਲ,unk,f,sg,1,,0_ਰਹਿ+ਇਆ_ਸੀ+0,' head="ਮਚਲ" poslcat="NM" vpos="tam1_2_3"> 
+
+4.1	ਮਚਲ	VM	<fs af='ਮਚਲ,unk,,,,,,' poslcat="NM" name="ਮਚਲ"> 
+
+)) 
+
+5	((	NP	<fs name='NP4' af='ਜਿਹੜਾ,adj,f,sg,,d,,' poslcat="NM" head="ਜਿਹੜੀ"> 
+
+5.1	ਜਿਹੜੀ	PRP	<fs af='ਜਿਹੜਾ,adj,f,sg,,d,,' poslcat="NM" name="ਜਿਹੜੀ" ref='UNK' refType='UNK' dir='UNK' refMod='' Ptype='REL'> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਉਹ,pn,any,sg,,o,0_ਨੂੰ,' head="ਉਸ" poslcat="NM" vpos="vib1_2"> 
+
+6.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+7	((	NP	<fs name='NP6' af='ਖੁਸ਼ੀ,unk,,,,,,' poslcat="NM" head="ਖੁਸ਼ੀ"> 
+
+7.1	ਸਦੀਵੀ	JJ	<fs af='ਸਦੀਵੀ,adj,,,,d,,' poslcat="NM"> 
+
+7.2	ਖੁਸ਼ੀ	NN	<fs af='ਖੁਸ਼ੀ,unk,,,,,,' poslcat="NM" name="ਖੁਸ਼ੀ"> 
+
+)) 
+
+8	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+8.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+9	((	NP	<fs name='NP7' af='ਸੰਤੁਸ਼ਟਤਾ,unk,,,,,,' poslcat="NM" head="ਸੰਤੁਸ਼ਟਤਾ"> 
+
+9.1	ਸੰਤੁਸ਼ਟਤਾ	NN	<fs af='ਸੰਤੁਸ਼ਟਤਾ,unk,,,,,,' poslcat="NM" name="ਸੰਤੁਸ਼ਟਤਾ"> 
+
+)) 
+
+10	((	NP	<fs name='NP8' af='ਪ੍ਰਦਾਨ,n,m,sg,3,d,,' poslcat="NM" head="ਪ੍ਰਦਾਨ"> 
+
+10.1	ਪ੍ਰਦਾਨ	NN	<fs af='ਪ੍ਰਦਾਨ,n,m,sg,3,d,,' poslcat="NM" name="ਪ੍ਰਦਾਨ"> 
+
+)) 
+
+11	((	VGF	<fs name='VGF2' af='ਕਰ,n,f,sg,1,d,0_ਸਕ+ਦਾ_ਸੀ+0,' poslcat="NM" head="ਕਰ" vpos="tam1_2_3"> 
+
+11.1	ਕਰ	VM	<fs af='ਕਰ,n,any,sg,3,d,,' poslcat="NM" name="ਕਰ"> 
+
+11.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="42"> 
+
+1	((	NP	<fs name='NP' af='ਦਿਨ,n,m,sg,3,d,,' poslcat="NM" head="ਦਿਨ"> 
+
+1.1	ਇੱਕ	QC	<fs af='ਇੱਕ,num,any,pl,,d,,' poslcat="NM"> 
+
+1.2	ਦਿਨ	NN	<fs af='ਦਿਨ,n,m,sg,3,d,,' poslcat="NM" name="ਦਿਨ"> 
+
+)) 
+
+2	((	RBP	<fs name='RBP' af='ਕੀ,psp,f,sg,,d,,' poslcat="NM" head="ਕੀ"> 
+
+2.1	ਕੀ	WQ	<fs af='ਕੀ,psp,f,sg,,d,,' poslcat="NM" name="ਕੀ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਹੋ,v,m,sg,any,,ਇਆ,ਇਆ' poslcat="NM" head="ਹੋਇਆ"> 
+
+3.1	ਹੋਇਆ	VM	<fs af='ਹੋ,v,m,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਹੋਇਆ"> 
+
+)) 
+
+4	((	NP	<fs name='NP2' af='ਸੈਨ,unk,,,,,,' poslcat="NM" head="ਸੈਨ"> 
+
+4.1	ਖੜਗ	JJ	<fs af='ਖੜਗ,n,f,sg,3,d,,' poslcat="NM"> 
+
+4.2	ਸੈਨ	NN	<fs af='ਸੈਨ,unk,,,,,,' poslcat="NM" name="ਸੈਨ"> 
+
+)) 
+
+5	((	NP	<fs name='NP3' af='ਦਰਬਾਰ,n,m,sg,3,d,0_ਵਿੱਚ,' poslcat="NM" head="ਦਰਬਾਰ" vpos="vib1_vib3_4"> 
+
+5.1	ਆਪਣੇ	PRP	<fs af='ਆਪਣਾ,adj,m,sg,,o,,' poslcat="NM" ref='NP2' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+5.2	ਰਾਜ	NNC	<fs af='ਰਾਜ,n,m,sg,3,d,,' poslcat="NM"> 
+
+5.3	ਦਰਬਾਰ	NN	<fs af='ਦਰਬਾਰ,n,m,sg,3,d,,' poslcat="NM" name="ਦਰਬਾਰ"> 
+
+)) 
+
+6	((	VGF	<fs name='VGF2' af='ਜਾ,v,m,sg,1,,ਇਆ_ਹੋ+ਇਆ_ਸੀ+0,ਇਆ' poslcat="NM" head="ਗਿਆ" vpos="tam1_2_3"> 
+
+6.1	ਗਿਆ	VM	<fs af='ਜਾ,v,m,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਗਿਆ"> 
+
+)) 
+
+7	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+7.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+8	((	NP	<fs name='NP4' af='ਕੱਲੀ,unk,,,,,,' poslcat="NM" head="ਕੱਲੀ"> 
+
+8.1	ਚੰਦਰਵਤੀ	JJ	<fs af='ਚੰਦਰਵਤੀ,unk,,,,,,' poslcat="NM"> 
+
+8.2	ਕੱਲਮ	NNC	<fs af='ਕੱਲਮ,unk,,,,,,' poslcat="NM"> 
+
+8.3	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+8.4	ਕੱਲੀ	NN	<fs af='ਕੱਲੀ,unk,,,,,,' poslcat="NM" name="ਕੱਲੀ"> 
+
+)) 
+
+9	((	NP	<fs name='NP5' af='ਮਹਿਲ,n,m,sg,3,d,0_ਦੀ,' poslcat="NM" head="ਮਹਿਲ" vpos="vib1_vib2_3"> 
+
+9.1	ਆਪਣੇ	PRP	<fs af='ਆਪਣਾ,adj,m,sg,,o,,' poslcat="NM" ref='NP4' sref='8.1' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+9.2	ਮਹਿਲ	NN	<fs af='ਮਹਿਲ,n,m,sg,3,d,,' poslcat="NM" name="ਮਹਿਲ"> 
+
+)) 
+
+10	((	NP	<fs name='NP6' af='ਖਿੜਕੀ,n,f,sg,3,d,0_ਵਿੱਚ,' head="ਖਿੜਕੀ" poslcat="NM" vpos="vib1_2"> 
+
+10.1	ਖਿੜਕੀ	NN	<fs af='ਖਿੜਕੀ,n,f,sg,3,d,,' poslcat="NM" name="ਖਿੜਕੀ"> 
+
+)) 
+
+11	((	VGNF	<fs af='ਬਹਿ,v,f,sg,any,,ਇਆ_ਹੋ+ਇਆ,ਇਆ' head="ਬੈਠੀ" poslcat="NM" vpos="tam1_2"> 
+
+11.1	ਬੈਠੀ	VM	<fs af='ਬਹਿ,v,f,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਬੈਠੀ"> 
+
+)) 
+
+12	((	NP	<fs name='NP7' af='ਬਾਹਰ,adv,any,sg,,d,0_ਦਾ,' poslcat="NM" head="ਬਾਹਰ" vpos="2"> 
+
+12.1	ਬਾਹਰ	NST	<fs af='ਬਾਹਰ,adv,any,sg,,d,,' poslcat="NM" name="ਬਾਹਰ"> 
+
+)) 
+
+13	((	NP	<fs name='NP8' af='ਨਜ਼ਾਰਾ,n,m,sg,3,d,,' poslcat="NM" head="ਨਜ਼ਾਰਾ"> 
+
+13.1	ਨਜ਼ਾਰਾ	NN	<fs af='ਨਜ਼ਾਰਾ,n,m,sg,3,d,,' poslcat="NM" name="ਨਜ਼ਾਰਾ"> 
+
+)) 
+
+14	((	VGF	<fs name='VGF3' af='ਮਾਣ,n,f,sg,1,d,0_ਰਹਿ+ਇਆ_ਸੀ+0,' poslcat="NM" head="ਮਾਣ" vpos="tam1_2_3"> 
+
+14.1	ਮਾਣ	VM	<fs af='ਮਾਣ,n,m,sg,3,d,,' poslcat="NM" name="ਮਾਣ"> 
+
+14.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="43"> 
+
+1	((	NP	<fs name='NP' af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" head="ਬਸੰਤ"> 
+
+1.1	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" name="ਬਸੰਤ"> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਕਬੂਤਰ,n,m,pl,3,o,0_ਨਾਲ,' head="ਕਬੂਤਰਾਂ" poslcat="NM" vpos="vib1_vib2_3"> 
+
+2.1	ਆਪਣੇ	PRP	<fs af='ਆਪਣਾ,adj,m,sg,,o,,' poslcat="NM" ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+2.2	ਕਬੂਤਰਾਂ	NN	<fs af='ਕਬੂਤਰ,n,m,pl,3,o,,' poslcat="NM" name="ਕਬੂਤਰਾਂ"> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਖੇਡ,n,f,sg,3,d,,' poslcat="NM" head="ਖੇਡ"> 
+
+3.1	ਖੇਡ	NN	<fs af='ਖੇਡ,n,f,sg,3,d,,' poslcat="NM" name="ਖੇਡ"> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਰਿਹਾ,adj,,sg,1,d,0_ਸੀ+0,' poslcat="NM" head="ਰਿਹਾ" vpos="tam1_2"> 
+
+4.1	ਰਿਹਾ	VM	<fs af='ਰਿਹਾ,adj,,,,d,,' poslcat="NM" name="ਰਿਹਾ"> 
+
+)) 
+
+5	((	CCP	<fs name='CCP' af='ਕਿ,avy,,,,,,' poslcat="NM" head="ਕਿ"> 
+
+5.1	ਕਿ	CC	<fs af='ਕਿ,avy,,,,,,' poslcat="NM" name="ਕਿ"> 
+
+)) 
+
+6	((	NP	<fs name='NP4' af='ਚੀਨਾ,adj,m,sg,,d,,' poslcat="NM" head="ਚੀਨਾ"> 
+
+6.1	ਇੱਕ	QC	<fs af='ਇੱਕ,num,any,pl,,d,,' poslcat="NM"> 
+
+6.2	ਚੀਨਾ	NN	<fs af='ਚੀਨਾ,adj,m,sg,,d,,' poslcat="NM" name="ਚੀਨਾ"> 
+
+)) 
+
+7	((	NP	<fs name='NP5' af='ਕਬੂਤਰ,n,m,sg,3,d,,' poslcat="NM" head="ਕਬੂਤਰ"> 
+
+7.1	ਕਬੂਤਰ	NN	<fs af='ਕਬੂਤਰ,n,m,sg,3,d,,' poslcat="NM" name="ਕਬੂਤਰ"> 
+
+)) 
+
+8	((	VGNF	<fs af='ਉੱਡ,v,any,sg,2,,0_ਕਾ+0,0' head="ਉੱਡ" poslcat="NM" vpos="tam1_2"> 
+
+8.1	ਉੱਡ	VM	<fs af='ਉੱਡ,v,any,sg,2,,0,0' poslcat="NM" name="ਉੱਡ"> 
+
+)) 
+
+9	((	NP	<fs name='NP6' af='ਚੰਦਰਵਤੀ,unk,,,,,0_ਦੀ,' poslcat="NM" head="ਚੰਦਰਵਤੀ" vpos="vib1_2"> 
+
+9.1	ਚੰਦਰਵਤੀ	NN	<fs af='ਚੰਦਰਵਤੀ,unk,,,,,,' poslcat="NM" name="ਚੰਦਰਵਤੀ"> 
+
+)) 
+
+10	((	NP	<fs name='NP7' af='ਬਾਰੀ,n,any,sg,3,d,0_ਵਿੱਚ,' head="ਬਾਰੀ" poslcat="NM" vpos="vib1_2"> 
+
+10.1	ਬਾਰੀ	NN	<fs af='ਬਾਰੀ,n,any,sg,3,d,,' poslcat="NM" name="ਬਾਰੀ"> 
+
+)) 
+
+11	((	VGF	<fs name='VGF2' af='ਆਣ,unk,,,,,0_ਵੜਿਆ+0,' head="ਆਣ" poslcat="NM" vpos="tam1_2"> 
+
+11.1	ਆਣ	VM	<fs af='ਆਣ,unk,,,,,,' poslcat="NM" name="ਆਣ"> 
+
+)) 
+
+12	((	NP	<fs name='NP8' af='ਜਿਸ,adj,any,sg,,d,0_ਨੂੰ,' poslcat="NM" head="ਜਿਸ" vpos="vib1_2"> 
+
+12.1	ਜਿਸ	PRP	<fs af='ਜਿਸ,adj,any,sg,,d,,' poslcat="NM" name="ਜਿਸ" ref='NP5' refType='C' dir='A' refMod='' Ptype='REL'> 
+
+)) 
+
+13	((	NP	<fs name='NP9' af='ਉਹ,pn,any,sg,,o,0_ਨੇ,' poslcat="NM" head="ਉਸ" vpos="vib1_2"> 
+
+13.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='NP6' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+14	((	JJP	<fs name='JJP' af='ਜਿਹਾ,adj,m,sg,,o,,' poslcat="NM" head="ਜਿਹੇ"> 
+
+14.1	ਮਲਕੜੇ	JJC	<fs af='ਮਲਕੜੇ,adv,,,,d,,' poslcat="NM"> 
+
+14.2	ਜਿਹੇ	JJ	<fs af='ਜਿਹਾ,adj,m,sg,,o,,' poslcat="NM" name="ਜਿਹੇ"> 
+
+)) 
+
+15	((	VGNF	<fs af='ਫੜ,v,any,sg,2,,0_ਕਾ+0,0' poslcat="NM" head="ਫੜ" vpos="tam1_2"> 
+
+15.1	ਫੜ	VM	<fs af='ਫੜ,v,any,sg,2,,0,0' poslcat="NM" name="ਫੜ"> 
+
+)) 
+
+16	((	NP	<fs name='NP10' af='ਹੇਠ,adv,,,,d,0_ਹੇਠ,' head="ਹੇਠ" poslcat="NM" vpos="vib2_3"> 
+
+16.1	ਇੱਕ	QC	<fs af='ਇੱਕ,num,any,pl,,d,,' poslcat="NM"> 
+
+16.2	ਟੋਕਰੀ	NN	<fs af='ਟੋਕਰੀ,n,f,sg,3,d,,' poslcat="NM"> 
+
+)) 
+
+17	((	VGF	<fs name='VGF3' af='ਲੁਕ,v,any,sg,any,,ਏ_ਦੇ+ਇਆ,ਏ' poslcat="NM" head="ਲੁਕੋ" vpos="tam1_2"> 
+
+17.1	ਲੁਕੋ	VM	<fs af='ਲੁਕ,v,any,pl,2,,ਏ,ਏ' poslcat="NM" name="ਲੁਕੋ"> 
+
+17.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="44"> 
+
+1	((	NP	<fs name='NP' af='ਮਹਿਲ,n,m,sg,3,d,0_ਵਿੱਚ,' poslcat="NM" head="ਮਹਿਲ" vpos="vib1_vib2_3"> 
+
+1.1	ਬਸੰਤ	NNP	<fs name="ਬਸੰਤ" af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM"> 
+
+1.2	ਮਹਿਲ	NN	<fs af='ਮਹਿਲ,n,m,sg,3,d,,' poslcat="NM" name="ਮਹਿਲ"> 
+
+)) 
+
+2	((	VGF	<fs name='VGF' af='ਆ,v,m,sg,any,,ਇਆ,ਇਆ' poslcat="NM" head="ਆਇਆ"> 
+
+2.1	ਆਇਆ	VM	<fs af='ਆ,v,m,sg,any,,ਇਆ,ਇਆ' poslcat="NM" name="ਆਇਆ"> 
+
+2.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="45"> 
+
+1	((	NP	<fs name='NP' af='ਉਹ,pn,any,sg,,o,0_ਨੂੰ,' head="ਉਸ" poslcat="NM" vpos="vib1_2"> 
+
+1.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='..%44%NP' sref='1.1' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+2	((	VGNF	<fs af='ਵੇਖ,v,any,sg,2,,0_ਕਾ+0,0' poslcat="NM" head="ਵੇਖ" vpos="tam1_2"> 
+
+2.1	ਵੇਖ	VM	<fs af='ਵੇਖ,v,any,sg,2,,0,0' poslcat="NM" name="ਵੇਖ"> 
+
+)) 
+
+3	((	NP	<fs name='NP2' af='ਗੁਲਾਬ,n,m,sg,3,d,0_ਦੇ,' head="ਗੁਲਾਬ" poslcat="NM" vpos="vib2_3"> 
+
+3.1	ਚੰਦਰਵਤੀ	NNPC	<fs name="ਚੰਦਰਵਤੀ" af='ਚੰਦਰਵਤੀ,unk,,,,,,' poslcat="NM"> 
+
+3.2	ਗੁਲਾਬ	NNP	<fs af='ਗੁਲਾਬ,n,m,sg,3,d,,' poslcat="NM" name="ਗੁਲਾਬ"> 
+
+)) 
+
+4	((	NP	<fs name='NP3' af='ਫੁੱਲ,n,m,sg,3,d,0_ਵਾਂਗ,' poslcat="NM" head="ਫੁੱਲ" vpos="vib1_2"> 
+
+4.1	ਫੁੱਲ	NN	<fs af='ਫੁੱਲ,n,m,sg,3,d,,' poslcat="NM" name="ਫੁੱਲ"> 
+
+)) 
+
+5	((	VGF	<fs name='VGF' af='ਖਿੜ,v,any,sg,any,,0_ਜਾ+ਇਆ,0' head="ਖਿੜ" poslcat="NM" vpos="tam1_2"> 
+
+5.1	ਖਿੜ	VM	<fs af='ਖਿੜ,v,any,sg,2,,0,0' poslcat="NM" name="ਖਿੜ"> 
+
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="46"> 
+
+1	((	NP	<fs name='NP' af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" head="ਉਹ"> 
+
+1.1	ਉਹ	PRP	<fs af='ਉਹ,pn,any,sg,,d,,' poslcat="NM" name="ਉਹ" ref='..%45%NP2' sref='3.1' refType='C' dir='A' refMod='' Ptype='PER3' > 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਉਹ,pn,any,sg,,o,0_ਨੂੰ,' head="ਉਸ" poslcat="NM" vpos="vib1_2"> 
+
+2.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='..%45%NP' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਕਬੂਤਰ,n,m,sg,3,d,,' poslcat="NM" head="ਕਬੂਤਰ"> 
+
+3.1	ਕਬੂਤਰ	NN	<fs af='ਕਬੂਤਰ,n,m,sg,3,d,,' poslcat="NM" name="ਕਬੂਤਰ"> 
+
+)) 
+
+4	((	VGNN	<fs af='ਦੇ,v,any,sg,2,,ਣ_ਦੇ+0,ਣ' poslcat="NM" head="ਦੇਣ" vpos="tam1_2"> 
+
+4.1	ਦੇਣ	VM	<fs af='ਦੇ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਦੇਣ"> 
+
+)) 
+
+5	((	NP	<fs name='NP4' af='ਪੱਜ,n,m,sg,3,d,,' poslcat="NM" head="ਪੱਜ"> 
+
+5.1	ਪੱਜ	NN	<fs af='ਪੱਜ,n,m,sg,3,d,,' poslcat="NM" name="ਪੱਜ"> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਭਵਨ,n,m,sg,3,d,0_ਵਿੱਚ,' poslcat="NM" head="ਭਵਨ" vpos="vib1_vib3_4"> 
+
+6.1	ਆਪਣੇ	PRP	<fs af='ਆਪਣਾ,adj,m,sg,,o,,' poslcat="NM" ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+6.2	ਵਿਸ਼ਰਾਮ	JJ	<fs af='ਵਿਸ਼ਰਾਮ,unk,,,,,,' poslcat="NM"> 
+
+6.3	ਭਵਨ	NN	<fs af='ਭਵਨ,n,m,sg,3,d,,' poslcat="NM" name="ਭਵਨ"> 
+
+)) 
+
+7	((	VGF	<fs name='VGF' af='ਲੈ,v,any,sg,any,,0_ਜਾ+ਇਆ,0' poslcat="NM" head="ਲੈ" vpos="tam1_2"> 
+
+7.1	ਲੈ	VM	<fs af='ਲੈ,v,any,sg,2,,0,0' poslcat="NM" name="ਲੈ"> 
+
+)) 
+
+8	((	CCP	<fs name='CCP' af='ਤੇ,psp,,,,d,,' poslcat="NM" head="ਤੇ"> 
+
+8.1	ਤੇ	CC	<fs af='ਤੇ,psp,,,,d,,' poslcat="NM" name="ਤੇ"> 
+
+)) 
+
+9	((	NP	<fs name='NP6' af='ਕੋਲ,adv,any,sg,,d,0_ਕੋਲ,' head="ਕੋਲ" poslcat="NM" vpos="vib1_2"> 
+
+9.1	ਆਪਣੇ	PRP	<fs af='ਆਪਣਾ,adj,m,sg,,o,,' poslcat="NM" ref='NP5' sref='6.1' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+)) 
+
+10	((	NP	<fs name='NP7' af='ਪਲੰਘ,n,m,sg,3,d,,' poslcat="NM" head="ਪਲੰਘ"> 
+
+10.1	ਪਲੰਘ	NN	<fs af='ਪਲੰਘ,n,m,sg,3,d,,' poslcat="NM" name="ਪਲੰਘ"> 
+
+)) 
+
+11	((	VGF	<fs name='VGF2' af='’ਤੇਬਿਠਾ,unk,,sg,2,,0_ਲਿਆ+0,' head="’ਤੇਬਿਠਾ" poslcat="NM" vpos="tam1_2"> 
+
+11.1	’ਤੇਬਿਠਾ	VM	<fs af='’ਤੇਬਿਠਾ,unk,,,,,,' poslcat="NM" name="’ਤੇਬਿਠਾ"> 
+
+)) 
+
+12	((	CCP	<fs name='CCP2' af='ਅਤੇ,avy,,,,,,' poslcat="NM" head="ਅਤੇ"> 
+
+12.1	ਅਤੇ	CC	<fs af='ਅਤੇ,avy,,,,,,' poslcat="NM" name="ਅਤੇ"> 
+
+)) 
+
+13	((	NP	<fs name='NP8' af='ਹੱਥ,n,m,pl,3,o,0_ਨੂੰ,' poslcat="NM" head="ਹੱਥਾਂ" vpos="vib1_vib2_3"> 
+
+13.1	ਉਹਦੇ	PRP	<fs af='ਉਹਦਾ,pn,m,sg,,o,,' poslcat="NM" ref='NP2' refType='C' dir='A' refMod='' Ptype='PER3'> 
+
+13.2	ਹੱਥਾਂ	NN	<fs af='ਹੱਥ,n,m,pl,3,o,,' poslcat="NM" name="ਹੱਥਾਂ"> 
+
+)) 
+
+14	((	NP	<fs name='NP9' af='ਪਲੋਸ,v,any,any,any,,ਦਿਆਂ,ਦਿਆਂ' poslcat="NM" head="ਪਲੋਸਦਿਆਂ"> 
+
+14.1	ਪੋਲੇ	NNC	<fs af='ਪੋਲਾ,adj,m,sg,,o,,' poslcat="NM"> 
+
+14.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+14.3	ਪੋਲੇ	NN	<fs af='ਪੋਲਾ,adj,m,sg,,o,,' poslcat="NM"> 
+
+14.4	ਪਲੋਸਦਿਆਂ	NN	<fs af='ਪਲੋਸ,v,any,any,any,,ਦਿਆਂ,ਦਿਆਂ' poslcat="NM" name="ਪਲੋਸਦਿਆਂ"> 
+
+)) 
+
+15	((	NP	<fs name='NP10' af='ਸ਼ਹਿਦ,n,m,sg,3,d,,' poslcat="NM" head="ਸ਼ਹਿਦ"> 
+
+15.1	ਸ਼ਹਿਦ	NN	<fs af='ਸ਼ਹਿਦ,n,m,sg,3,d,,' poslcat="NM" name="ਸ਼ਹਿਦ"> 
+
+15.2	ਜਿਹੇ	RP	<fs af='ਜਿਹਾ,adj,m,sg,,o,,' poslcat="NM"> 
+
+)) 
+
+16	((	NP	<fs name='NP11' af='ਬੋਲ,n,m,sg,3,d,,' poslcat="NM" head="ਬੋਲ"> 
+
+16.1	ਮਿੱਠੇ	JJ	<fs af='ਮਿੱਠਾ,adj,m,sg,,o,,' poslcat="NM"> 
+
+16.2	ਬੋਲ	NN	<fs af='ਬੋਲ,n,m,sg,3,d,,' poslcat="NM" name="ਬੋਲ"> 
+
+)) 
+
+17	((	VGNF	<fs af='ਬੋਲ,v,any,any,any,,ਦਿਆਂ,ਦਿਆਂ' poslcat="NM" head="ਬੋਲਦਿਆਂ"> 
+
+17.1	ਬੋਲਦਿਆਂ	VM	<fs af='ਬੋਲ,v,any,any,any,,ਦਿਆਂ,ਦਿਆਂ' poslcat="NM" name="ਬੋਲਦਿਆਂ"> 
+
+)) 
+
+18	((	NP	<fs name='NP12' af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" head="ਬਸੰਤ"> 
+
+18.1	ਬੋਲੀ	NN	<fs af='ਬੋਲ,v,f,sg,any,,ਇਆ,ਇਆ' poslcat="NM"> 
+
+18.2	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat="NM"> 
+
+18.3	‘‘ਵੇ	SYM	<fs af='‘‘ਵੇ,unk,,,,,,' poslcat="NM"> 
+
+18.4	ਬਸੰਤ	NNP	<fs af='ਬਸੰਤ,n,f,sg,3,d,,' poslcat="NM" name="ਬਸੰਤ"> 
+
+18.5	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+19	((	NP	<fs name='NP13' af='ਤੂੰ,pn,any,sg,2,o,ਨੂੰ,ਨੂੰ' poslcat="NM" head="ਤੈਨੂੰ"> 
+ 
+19.1	ਤੈਨੂੰ	PRP	<fs af='ਤੂੰ,pn,any,sg,2,o,ਨੂੰ,ਨੂੰ' poslcat="NM" name="ਤੈਨੂੰ" ref='NP12' refType='C' dir='A' refMod='' Ptype='PER2'> 
+
+)) 
+
+20	((	NP	<fs name='NP14' af='ਕਬੂਤਰ,n,m,pl,3,o,0_ਨਾਲ,' poslcat="NM" head="ਕਬੂਤਰਾਂ" vpos="vib1_2"> 
+
+20.1	ਕਬੂਤਰਾਂ	NN	<fs af='ਕਬੂਤਰ,n,m,pl,3,o,,' poslcat="NM" name="ਕਬੂਤਰਾਂ"> 
+
+)) 
+
+21	((	VGNN	<fs af='ਖੇਡ,v,any,sg,any,,ਣ_ਦਾ+0,ਣ' poslcat="NM" head="ਖੇਡਣ" vpos="tam1_2"> 
+
+21.1	ਖੇਡਣ	VM	<fs af='ਖੇਡ,v,any,any,any,,ਣ,ਣ' poslcat="NM" name="ਖੇਡਣ"> 
+
+)) 
+
+22	((	NP	<fs name='NP15' af='ਸ਼ੌਕ,n,m,sg,3,d,,' poslcat="NM" head="ਸ਼ੌਕ"> 
+
+22.1	ਸ਼ੌਕ	NN	<fs af='ਸ਼ੌਕ,n,m,sg,3,d,,' poslcat="NM" name="ਸ਼ੌਕ"> 
+
+22.2	ਐ	INJ	<fs af='ਐ,unk,,,,,,' poslcat="NM"> 
+
+22.3	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="47"> 
+
+1	((	NP	<fs name='NP' af='ਤੂੰ,pn,any,sg,2,d,,' poslcat="NM" head="ਤੂੰ"> 
+
+1.1	ਤੂੰ	PRP	<fs af='ਤੂੰ,pn,any,sg,2,d,,' poslcat="NM" name="ਤੂੰ" ref='..%46%NP13' refType='C' dir='A' refMod='' Ptype='PER2'> 
+
+)) 
+
+2	((	JJP	<fs name='JJP' af='ਖੂਬਸੂਰਤ,adj,,,,d,,' poslcat="NM" head="ਖੂਬਸੂਰਤ"> 
+
+2.1	ਕਿੰਨਾ	QF	<fs af='ਕਿੰਨਾ,adj,m,sg,,d,,' poslcat="NM"> 
+
+2.2	ਖੂਬਸੂਰਤ	JJ	<fs af='ਖੂਬਸੂਰਤ,adj,,,,d,,' poslcat="NM" name="ਖੂਬਸੂਰਤ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਆਂ,v,any,sg,1,,,' poslcat="NM" head="ਏਂ"> 
+
+3.1	ਏਂ	VAUX	<fs af='ਆਂ,v,any,sg,1,,,' poslcat="NM" name="ਏਂ"> 
+
+3.2	ਸੁਹਣਿਆਂ	VM	<fs af='ਸੁਹਣਿਆਂ,unk,,,,,,' poslcat="NM"> 
+
+3.3	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="48"> 
+
+1	((	NP	<fs name='NP' af='ਮੈਂ,pn,any,sg,1,d,,' poslcat="NM" head="ਮੈਂ"> 
+
+1.1	ਮੈਂ	PRP	<fs af='ਮੈਂ,pn,any,sg,1,d,,' poslcat="NM" name="ਮੈਂ" ref='..%46%NP6' refType='C' dir='A' refMod='' Ptype='PER1'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='’ਤੇਵਾਰੀ,unk,,,,,,' poslcat="NM" head="’ਤੇਵਾਰੀ"> 
+
+2.1	ਤੇਰੇ	PRP	<fs af='ਤੇਰਾ,pn,m,sg,2,o,,' poslcat="NM" ref='..%47%NP' refType='C' dir='A' refMod='' Ptype='PER2'> 
+
+2.2	’ਤੇਵਾਰੀ	NN	<fs af='’ਤੇਵਾਰੀ,unk,,,,,,' poslcat="NM" name="’ਤੇਵਾਰੀ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਜਾਨੀ,adj,,sg,1,d,0_ਆਂ+0,' head="ਜਾਨੀ" poslcat="NM" vpos="tam1_2"> 
+
+3.1	ਜਾਨੀ	VM	<fs af='ਜਾਨੀ,adj,,,,d,,' poslcat="NM" name="ਜਾਨੀ"> 
+
+3.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="49"> 
+
+1	((	NP	<fs name='NP' af='ਜਦ,adv,,,,d,,' poslcat="NM" head="ਜਦ"> 
+
+1.1	ਜਦ	PRP	<fs af='ਜਦ,adv,,,,d,,' poslcat="NM" name="ਜਦ" ref='UNK' refType='UNK' dir='UNK' refMod='' Ptype='UNK'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਮੈਂ,pn,any,sg,1,d,,' poslcat="NM" head="ਮੈਂ"> 
+
+2.1	ਮੈਂ	PRP	<fs af='ਮੈਂ,pn,any,sg,1,d,,' poslcat="NM" name="ਮੈਂ" ref='..%48%NP' refType='C' dir='A' refMod='' Ptype='PER1'> 
+
+)) 
+
+3	((	NP	<fs name='NP3' af='ਤੂੰ,pn,any,sg,2,o,ਨੂੰ,ਨੂੰ' poslcat="NM" head="ਤੈਨੂੰ"> 
+
+3.1	ਤੈਨੂੰ	PRP	<fs af='ਤੂੰ,pn,any,sg,2,o,ਨੂੰ,ਨੂੰ' poslcat="NM" name="ਤੈਨੂੰ" ref='..%48%NP2' refType='C' dir='A' refMod='' Ptype='PER2'> 
+
+)) 
+
+4	((	VGF	<fs name='VGF' af='ਵੇਖ,v,f,sg,1,,ਦਾ_ਆਂ+0,ਦਾ' poslcat="NM" head="ਵੇਖਦੀ" vpos="tam1_2"> 
+
+4.1	ਵੇਖਦੀ	VM	<fs af='ਵੇਖ,v,f,sg,any,,ਦਾ,ਦਾ' poslcat="NM" name="ਵੇਖਦੀ"> 
+
+4.2	,	SYM	<fs af='&comma;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+5	((	NP	<fs name='NP4' af='ਜਾਨ,n,f,sg,3,d,,' poslcat="NM" head="ਜਾਨ"> 
+
+5.1	ਮੇਰੀ	PRP	<fs af='ਮੇਰੀ,pn,f,sg,1,d,,' poslcat="NM" ref='NP2' refType='C' dir='A' refMod='' Ptype='PER1'> 
+
+5.2	ਜਾਨ	NN	<fs af='ਜਾਨ,n,f,sg,3,d,,' poslcat="NM" name="ਜਾਨ"> 
+
+)) 
+
+6	((	NP	<fs name='NP5' af='ਈ,avy,,,,,,' poslcat="NM" head="ਈ"> 
+
+6.1	ਈ	NN	<fs af='ਈ,avy,,,,,,' poslcat="NM" name="ਈ"> 
+
+)) 
+
+7	((	VGF	<fs name='VGF2' af='ਕੱਢ,v,any,sg,2,,0_ਲੈਨੈ+0,0' poslcat="NM" head="ਕੱਢ" vpos="tam1_2"> 
+
+7.1	ਕੱਢ	VM	<fs af='ਕੱਢ,v,any,sg,2,,0,0' poslcat="NM" name="ਕੱਢ"> 
+
+7.2	!	SYM	<fs af='!,unk,,,,,,' poslcat="NM"> 
+
+)) 
+
+8	((	NP	<fs name='NP6' af='ਆਪ,pn,any,pl,,o,,' poslcat="NM" head="ਆਪਾਂ"> 
+
+8.1	ਆਪਾਂ	PRP	<fs af='ਆਪ,pn,any,pl,,o,,' poslcat="NM" name="ਆਪਾਂ"  ref='unk' refType='unk' dir='unk' refMod='unk' Ptype='UNK'> 
+
+)) 
+
+9	((	NP	<fs name='NP7' af='ਦੋਨੋਂ,unk,,,,,,' poslcat="NM" head="ਦੋਨੋਂ"> 
+
+9.1	ਦੋਨੋਂ	NN	<fs af='ਦੋਨੋਂ,unk,,,,,,' poslcat="NM" name="ਦੋਨੋਂ"> 
+
+)) 
+
+10	((	NP	<fs name='NP8' af='ਪਰਵਾਣ,unk,,,,,0_ਦੇ,' head="ਪਰਵਾਣ" poslcat="NM" vpos="vib3_4"> 
+
+10.1	ਹਾਣ	NNC	<fs af='ਹਾਣ,n,any,sg,3,d,,' poslcat="NM"> 
+
+10.2	-	SYM	<fs af='&ndash;,punc,,,,,,' poslcat="NM"> 
+
+10.3	ਪਰਵਾਣ	NN	<fs af='ਪਰਵਾਣ,unk,,,,,,' poslcat="NM" name="ਪਰਵਾਣ"> 
+
+)) 
+
+11	((	VGF	<fs name='VGF3' af='ਆਂ,v,any,sg,1,,,' poslcat="NM" head="ਆਂ"> 
+
+11.1	ਆਂ	VM	<fs af='ਆਂ,v,any,sg,1,,,' poslcat="NM" name="ਆਂ"> 
+
+11.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="50"> 
+
+1	((	NP	<fs name='NP' af='ਮੈਂ,pn,any,sg,1,o,ਨੂੰ,ਨੂੰ' poslcat="NM" head="ਮੈਨੂੰ"> 
+
+1.1	ਮੈਨੂੰ	PRP	<fs af='ਮੈਂ,pn,any,sg,1,o,ਨੂੰ,ਨੂੰ' poslcat="NM" name="ਮੈਨੂੰ"   ref='..%49%NP2' refType='C' dir='A' refMod='' Ptype='PER1'> 
+
+)) 
+
+2	((	NP	<fs name='NP2' af='ਕਬੂਤਰੀ,n,f,sg,3,d,,' poslcat="NM" head="ਕਬੂਤਰੀ"> 
+
+2.1	ਆਪਣੀ	PRP	<fs af='ਆਪਣਾ,adj,f,sg,,d,,' poslcat="NM"  ref='NP' refType='C' dir='A' refMod='' Ptype='REF'> 
+
+2.2	ਕਬੂਤਰੀ	NN	<fs af='ਕਬੂਤਰੀ,n,f,sg,3,d,,' poslcat="NM" name="ਕਬੂਤਰੀ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਬਣਾ,v,any,sg,2,,0_ਲੈ+0,0' poslcat="NM" head="ਬਣਾ" vpos="tam1_2"> 
+
+3.1	ਬਣਾ	VM	<fs af='ਬਣਾ,v,any,sg,2,,0,0' poslcat="NM" name="ਬਣਾ"> 
+
+3.2	ਸੁਹਣਿਆਂ	VM	<fs af='ਸੁਹਣਿਆਂ,unk,,,,,,' poslcat="NM"> 
+
+3.3	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
+<Sentence id="51"> 
+
+1	((	NP	<fs name='NP' af='ਤੇਰੀ,pn,f,sg,2,d,,' poslcat="NM" head="ਤੇਰੀ"> 
+
+1.1	ਸਾਰੀ	QF	<fs af='ਸਾਰ,v,f,sg,any,,ਇਆ,ਇਆ' poslcat="NM"> 
+
+1.2	ਜ਼ਿੰਦਗੀ	JJ	<fs af='ਜ਼ਿੰਦਗੀ,n,f,sg,3,d,,' poslcat="NM"> 
+
+1.3	ਤੇਰੀ	NN	<fs af='ਤੇਰੀ,pn,f,sg,2,d,,' poslcat="NM" name="ਤੇਰੀ"  ref='..%49%NP2' refType='C' dir='A' refMod='' Ptype='PER2'> 
+
+)) 
+
+2	((	VGNF	<fs af='ਬਣ,n,m,sg,3,d,0_ਕਾ+0,' head="ਬਣ" poslcat="NM" vpos="tam1_2"> 
+
+2.1	ਬਣ	VM	<fs af='ਬਣ,n,m,sg,3,d,,' poslcat="NM" name="ਬਣ"> 
+
+)) 
+
+3	((	VGF	<fs name='VGF' af='ਰਹਿ,v,f,sg,1,,ਏਗਾ,ਏਗਾ' poslcat="NM" head="ਰਹਾਂਗੀ"> 
+
+3.1	ਰਹਾਂਗੀ	VM	<fs af='ਰਹਿ,v,f,sg,1,,ਏਗਾ,ਏਗਾ' poslcat="NM" name="ਰਹਾਂਗੀ"> 
+
+3.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM"> 
+
+)) 
+
+</Sentence> 
+
