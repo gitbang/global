@@ -396,7 +396,7 @@
 
 2	((	NP	<fs name='NP2' af='ਉਹ,pn,any,sg,,o,0_ਨੂੰ,' head="ਉਸ" poslcat="NM" vpos="vib1_2"> 
 
-2.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" sef='..%5%NP' refType='C' dir='A' refMod='' Ptype='PER3' > 
+2.1	ਉਸ	PRP	<fs af='ਉਹ,pn,any,sg,,o,,' poslcat="NM" name="ਉਸ" ref='..%5%NP' refType='C' dir='A' refMod='' Ptype='PER3' > 
 
 )) 
 
