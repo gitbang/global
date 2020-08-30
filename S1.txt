@@ -6308,7 +6308,7 @@ w
 
 1	((	NP	<fs name='NP' af='ਉਹ,pn,any,pl,,o,,' poslcat="NM" head="ਉਨ੍ਹਾਂ"> 
 
-1.1	ਉਨ੍ਹਾਂ	PRP	<fs af='ਉਹ,pn,any,pl,,o,,' poslcat="NM" name="ਉਨ੍ਹਾਂ" ref='..%101%NP',..%101%NP3' refType='C' dir='A' refMod='' Ptype='PER3'>
+1.1	ਉਨ੍ਹਾਂ	PRP	<fs af='ਉਹ,pn,any,pl,,o,,' poslcat="NM" name="ਉਨ੍ਹਾਂ" ref='..%101%NP,..%101%NP3' refType='C' dir='A' refMod='' Ptype='PER3'>
 
 )) 
 
